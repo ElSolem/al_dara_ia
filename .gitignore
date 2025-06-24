@@ -192,3 +192,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+#pokeseidr stuff
+pokeseidr/archive
+/home/elsolem/Documents/al_dara_ia/pokeseidr/assets
+pokeseidr/build

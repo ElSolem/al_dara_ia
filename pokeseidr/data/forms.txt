@@ -1,0 +1,2658 @@
+Form "Venusaur,1" {
+    formname: "Mega Venusaur"
+    megastone: "Venusaurite"
+    basestats: ['80', '100', '123', '80', '122', '120']
+    baseexp: 313
+    abilities: "Thickfat"
+    hiddenabilities: "Thickfat"
+    height: 2.4
+    weight: 155.5
+    pokedex: ['In Order To Support Its Flower', ' Which Has Grown Larger Due To Mega Evolution', ' Its Back And Legs Have Become Stronger.']
+    generation: 6
+}
+
+Form "Charizard,1" {
+    formname: "Mega Charizard X"
+    megastone: "Charizarditex"
+    types: ['Fire', 'Dragon']
+    basestats: ['78', '130', '111', '100', '130', '85']
+    baseexp: 317
+    abilities: "Toughclaws"
+    hiddenabilities: "Toughclaws"
+    weight: 110.5
+    color: "Black"
+    pokedex: "The Overwhelming Power That Fills Its Entire Body Causes It To Turn Black And Create Intense Blue Flames."
+    generation: 6
+}
+
+Form "Charizard,2" {
+    formname: "Mega Charizard Y"
+    megastone: "Charizarditey"
+    basestats: ['78', '104', '78', '100', '159', '115']
+    baseexp: 317
+    abilities: "Drought"
+    hiddenabilities: "Drought"
+    weight: 100.5
+    pokedex: "Its Bond With Its Trainer Is The Source Of Its Power. It Boasts Speed And Maneuverability Greater Than That Of A Jet Fighter."
+    generation: 6
+}
+
+Form "Blastoise,1" {
+    formname: "Mega Blastoise"
+    megastone: "Blastoisinite"
+    basestats: ['79', '103', '120', '78', '135', '115']
+    baseexp: 315
+    abilities: "Megalauncher"
+    hiddenabilities: "Megalauncher"
+    weight: 101.1
+    pokedex: "The Cannon On Its Back Is As Powerful As A Tank Gun. Its Tough Legs And Back Enable It To Withstand The Recoil From Firing The Cannon."
+    generation: 6
+}
+
+Form "Beedrill,1" {
+    formname: "Mega Beedrill"
+    megastone: "Beedrillite"
+    basestats: ['65', '150', '40', '145', '15', '80']
+    baseexp: 284
+    abilities: "Adaptability"
+    hiddenabilities: "Adaptability"
+    height: 1.4
+    weight: 40.5
+    pokedex: ['Its Legs Have Become Poison Stingers. It Stabs Its Prey Repeatedly With The Stingers On Its Limbs', ' Dealing The Final Blow With The Stinger On Its Rear.']
+    generation: 6
+}
+
+Form "Pidgeot,1" {
+    formname: "Mega Pidgeot"
+    megastone: "Pidgeotite"
+    basestats: ['83', '80', '80', '121', '135', '80']
+    baseexp: 290
+    abilities: "Noguard"
+    hiddenabilities: "Noguard"
+    height: 2.2
+    weight: 50.5
+    pokedex: ['With Its Muscular Strength Now Greatly Increased', ' It Can Fly Continuously For Two Weeks Without Resting.']
+    generation: 6
+}
+
+Form "Rattata,1" {
+    formname: "Alolan"
+    types: ['Dark', 'Normal']
+    abilities: ['Gluttony', 'Hustle']
+    hiddenabilities: "Thickfat"
+    tutormoves: ['Attract', 'Blizzard', 'Bodyslam', 'Captivate', 'Confide', 'Counter', 'Covet', 'Cut', 'Darkpulse', 'Defensecurl', 'Dig', 'Doubleedge', 'Doubleteam', 'Embargo', 'Endeavor', 'Endure', 'Facade', 'Frustration', 'Grassknot', 'Headbutt', 'Hiddenpower', 'Icebeam', 'Icywind', 'Irontail', 'Lastresort', 'Mimic', 'Mudslap', 'Naturalgift', 'Pluck', 'Protect', 'Quash', 'Raindance', 'Rest', 'Retaliate', 'Return', 'Rocksmash', 'Round', 'Secretpower', 'Shadowball', 'Shadowclaw', 'Shockwave', 'Sleeptalk', 'Sludgebomb', 'Snarl', 'Snatch', 'Snore', 'Substitute', 'Suckerpunch', 'Sunnyday', 'Superfang', 'Swagger', 'Swift', 'Taunt', 'Thief', 'Torment', 'Uproar', 'Uturn', 'Zenheadbutt']
+    eggmoves: ['Counter', 'Finalgambit', 'Furyswipes', 'Mefirst', 'Revenge', 'Reversal', 'Snatch', 'Stockpile', 'Swallow', 'Switcheroo', 'Uproar']
+    weight: 3.8
+    color: "Black"
+    pokedex: ['With Its Incisors', " It Gnaws Through Doors And Infiltrates People'S Homes. Then", ' With A Twitch Of Its Whiskers', ' It Steals Whatever Food It Finds.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+    wilditemuncommon: "Pechaberry"
+    evolutions: ['Raticate', 'Levelnight', '20']
+}
+
+Form "Raticate,1" {
+    formname: "Alolan"
+    types: ['Dark', 'Normal']
+    basestats: ['75', '71', '70', '77', '40', '80']
+    abilities: ['Gluttony', 'Hustle']
+    hiddenabilities: "Thickfat"
+    tutormoves: ['Attract', 'Blizzard', 'Bodyslam', 'Bulkup', 'Captivate', 'Confide', 'Counter', 'Covet', 'Cut', 'Darkpulse', 'Defensecurl', 'Dig', 'Doubleedge', 'Doubleteam', 'Embargo', 'Endeavor', 'Endure', 'Facade', 'Frustration', 'Gigaimpact', 'Grassknot', 'Headbutt', 'Hiddenpower', 'Hyperbeam', 'Icebeam', 'Icywind', 'Irontail', 'Knockoff', 'Lastresort', 'Mimic', 'Mudslap', 'Naturalgift', 'Pluck', 'Protect', 'Quash', 'Raindance', 'Rest', 'Retaliate', 'Return', 'Roar', 'Rocksmash', 'Round', 'Secretpower', 'Shadowball', 'Shadowclaw', 'Shockwave', 'Sleeptalk', 'Sludgebomb', 'Sludgewave', 'Snarl', 'Snatch', 'Snore', 'Stompingtantrum', 'Strength', 'Substitute', 'Suckerpunch', 'Sunnyday', 'Superfang', 'Swagger', 'Swift', 'Swordsdance', 'Taunt', 'Thief', 'Throatchop', 'Torment', 'Uproar', 'Uturn', 'Venoshock', 'Zenheadbutt']
+    weight: 25.5
+    color: "Black"
+    pokedex: ['It Forms A Group Of Rattata', ' Which It Assumes Command Of. Each Group Has Its Own Territory', ' And Disputes Over Food Happen Often.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+    wilditemuncommon: "Pechaberry"
+}
+
+Form "Raichu,1" {
+    formname: "Alolan"
+    types: ['Electric', 'Psychic']
+    basestats: ['60', '85', '50', '110', '95', '85']
+    abilities: "Surgesurfer"
+    hiddenabilities: "Surgesurfer"
+    moves: ['0', 'Psychic', '1', 'Nuzzle', '1', 'Electroball', '1', 'Discharge', '1', 'Nastyplot', '1', 'Feint', '1', 'Irontail', '1', 'Spark', '1', 'Charm', '1', 'Sweetkiss', '1', 'Lightscreen', '1', 'Doubleteam', '1', 'Quickattack', '1', 'Agility', '1', 'Thunder', '1', 'Thunderwave', '1', 'Thundershock', '1', 'Growl', '1', 'Playnice', '1', 'Tailwhip', '5', 'Thunderbolt']
+    tutormoves: ['Agility', 'Alluringvoice', 'Bodyslam', 'Brickbreak', 'Calmmind', 'Charge', 'Chargebeam', 'Charm', 'Dig', 'Drainingkiss', 'Eerieimpulse', 'Electricterrain', 'Electroball', 'Electroweb', 'Encore', 'Endeavor', 'Endure', 'Expandingforce', 'Facade', 'Faketears', 'Fling', 'Focusblast', 'Focuspunch', 'Gigaimpact', 'Grassknot', 'Helpinghand', 'Hyperbeam', 'Knockoff', 'Lightscreen', 'Nastyplot', 'Playrough', 'Protect', 'Psychic', 'Psychicnoise', 'Psychicterrain', 'Psyshock', 'Raindance', 'Reflect', 'Rest', 'Reversal', 'Skillswap', 'Sleeptalk', 'Storedpower', 'Substitute', 'Surf', 'Swift', 'Takedown', 'Thief', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Thunderwave', 'Trailblaze', 'Upperhand', 'Voltswitch', 'Wildcharge']
+    height: 0.7
+    weight: 21.0
+    color: "Brown"
+    habitat: "Watersedge"
+    pokedex: ['It Uses Psychokinesis To Control Electricity. It Hops Aboard Its Own Tail', ' Using Psychic Power To Lift The Tail And Move About While Riding It.']
+    generation: 7
+}
+
+Form "Sandshrew,1" {
+    formname: "Alolan"
+    types: ['Ice', 'Steel']
+    basestats: ['50', '75', '90', '40', '10', '35']
+    abilities: "Snowcloak"
+    hiddenabilities: "Slushrush"
+    moves: ['1', 'Scratch', '1', 'Defensecurl', '3', 'Mist', '6', 'Powdersnow', '9', 'Rollout', '12', 'Furycutter', '15', 'Rapidspin', '18', 'Metalclaw', '21', 'Swift', '24', 'Furyswipes', '27', 'Irondefense', '30', 'Slash', '33', 'Ironhead', '36', 'Gyroball', '39', 'Swordsdance', '42', 'Snowscape', '45', 'Blizzard']
+    tutormoves: ['Aerialace', 'Amnesia', 'Avalanche', 'Blizzard', 'Bodyslam', 'Brickbreak', 'Bulldoze', 'Curse', 'Dig', 'Doubleedge', 'Earthquake', 'Endeavor', 'Endure', 'Facade', 'Flashcannon', 'Fling', 'Focuspunch', 'Gyroball', 'Icebeam', 'Icepunch', 'Icespinner', 'Iciclespear', 'Icywind', 'Irondefense', 'Ironhead', 'Knockoff', 'Leechlife', 'Lowkick', 'Metalclaw', 'Poisonjab', 'Protect', 'Rest', 'Rockslide', 'Rocktomb', 'Shadowclaw', 'Sleeptalk', 'Snowscape', 'Stealthrock', 'Steelbeam', 'Substitute', 'Superfang', 'Swift', 'Swordsdance', 'Takedown', 'Thief', 'Throatchop', 'Tripleaxel', 'Xscissor']
+    eggmoves: ['Counter', 'Crushclaw', 'Curse', 'Flail', 'Honeclaws', 'Iceshard', 'Mirrorcoat', 'Nightslash']
+    height: 0.7
+    weight: 40.0
+    color: "White"
+    pokedex: ['The Skin On Its Back Is As Hard As Steel. Predators Go After Its Soft Belly', ' So It Clings To The Ground Desperately.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+    evolutions: ['Sandslash', 'Item', 'Icestone']
+}
+
+Form "Sandslash,1" {
+    formname: "Alolan"
+    types: ['Ice', 'Steel']
+    basestats: ['75', '100', '120', '65', '25', '65']
+    abilities: "Snowcloak"
+    hiddenabilities: "Slushrush"
+    moves: ['-1', 'Scratch', '-1', 'Mist', '-1', 'Blizzard', '-1', 'Defensecurl', '-1', 'Swift', '-1', 'Furyswipes', '-1', 'Powdersnow', '-1', 'Rollout', '-1', 'Furycutter', '-1', 'Rapidspin', '-1', 'Irondefense', '-1', 'Gyroball', '-1', 'Metalburst', '-1', 'Ironhead', '-1', 'Snowscape', '0', 'Iciclespear', '1', 'Slash', '1', 'Metalclaw', '1', 'Iciclecrash', '1', 'Swordsdance']
+    tutormoves: ['Aerialace', 'Agility', 'Amnesia', 'Avalanche', 'Blizzard', 'Bodyslam', 'Brickbreak', 'Bulldoze', 'Curse', 'Dig', 'Doubleedge', 'Drillrun', 'Earthquake', 'Endeavor', 'Endure', 'Facade', 'Falseswipe', 'Flashcannon', 'Fling', 'Focusblast', 'Focuspunch', 'Gigaimpact', 'Gyroball', 'Hyperbeam', 'Icebeam', 'Icepunch', 'Icespinner', 'Iciclespear', 'Icywind', 'Irondefense', 'Ironhead', 'Knockoff', 'Leechlife', 'Lowkick', 'Metalclaw', 'Poisonjab', 'Protect', 'Rest', 'Rockslide', 'Rocktomb', 'Shadowclaw', 'Sleeptalk', 'Snowscape', 'Spikes', 'Stealthrock', 'Steelbeam', 'Substitute', 'Superfang', 'Swift', 'Swordsdance', 'Takedown', 'Thief', 'Throatchop', 'Tripleaxel', 'Xscissor']
+    height: 1.2
+    weight: 55.0
+    color: "Blue"
+    pokedex: ['It Runs Across Snow-Covered Plains At High Speeds. It Developed Thick', ' Sharp Claws To Plow Through The Snow.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Vulpix,1" {
+    formname: "Alolan"
+    types: "Ice"
+    abilities: "Snowcloak"
+    hiddenabilities: "Snowwarning"
+    moves: ['1', 'Powdersnow', '1', 'Tailwhip', '4', 'Disable', '8', 'Iceshard', '12', 'Spite', '16', 'Icywind', '20', 'Confuseray', '24', 'Aurorabeam', '28', 'Extrasensory', '32', 'Icebeam', '36', 'Imprison', '40', 'Mist', '44', 'Auroraveil', '48', 'Freezedry', '52', 'Blizzard']
+    tutormoves: ['Agility', 'Batonpass', 'Blizzard', 'Bodyslam', 'Charm', 'Chillingwater', 'Confuseray', 'Darkpulse', 'Dazzlinggleam', 'Dig', 'Disarmingvoice', 'Doubleedge', 'Drainingkiss', 'Encore', 'Endure', 'Facade', 'Faketears', 'Foulplay', 'Helpinghand', 'Hex', 'Icebeam', 'Iciclespear', 'Icywind', 'Imprison', 'Mistyterrain', 'Nastyplot', 'Painsplit', 'Playrough', 'Protect', 'Psychup', 'Raindance', 'Rest', 'Roar', 'Sleeptalk', 'Snowscape', 'Spite', 'Storedpower', 'Substitute', 'Swift', 'Takedown', 'Weatherball', 'Zenheadbutt']
+    eggmoves: ['Babydolleyes', 'Flail', 'Howl', 'Hypnosis', 'Moonblast', 'Roar']
+    color: "White"
+    pokedex: ['In Hot Weather', ' This Pokémon Makes Ice Shards With Its Six Tails And Sprays Them Around To Cool Itself Off.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+    wilditemuncommon: "Snowball"
+    evolutions: ['Ninetales', 'Item', 'Icestone']
+}
+
+Form "Ninetales,1" {
+    formname: "Alolan"
+    types: ['Ice', 'Fairy']
+    basestats: ['73', '67', '75', '109', '81', '100']
+    evs: ['Speed', '2']
+    abilities: "Snowcloak"
+    hiddenabilities: "Snowwarning"
+    moves: ['-1', 'Disable', '-1', 'Mist', '-1', 'Icebeam', '-1', 'Aurorabeam', '-1', 'Confuseray', '-1', 'Spite', '-1', 'Powdersnow', '-1', 'Extrasensory', '-1', 'Nastyplot', '-1', 'Iceshard', '-1', 'Freezedry', '-1', 'Auroraveil', '0', 'Dazzlinggleam', '1', 'Blizzard', '1', 'Icywind', '1', 'Imprison', '1', 'Tailwhip']
+    tutormoves: ['Agility', 'Avalanche', 'Batonpass', 'Blizzard', 'Bodyslam', 'Calmmind', 'Charm', 'Chillingwater', 'Confuseray', 'Darkpulse', 'Dazzlinggleam', 'Dig', 'Disarmingvoice', 'Doubleedge', 'Drainingkiss', 'Encore', 'Endure', 'Facade', 'Faketears', 'Foulplay', 'Gigaimpact', 'Helpinghand', 'Hex', 'Hyperbeam', 'Icebeam', 'Iciclespear', 'Icywind', 'Imprison', 'Mistyterrain', 'Nastyplot', 'Painsplit', 'Playrough', 'Protect', 'Psychup', 'Psyshock', 'Raindance', 'Rest', 'Roar', 'Sleeptalk', 'Snowscape', 'Spite', 'Storedpower', 'Substitute', 'Swift', 'Takedown', 'Tripleaxel', 'Weatherball', 'Zenheadbutt']
+    color: "Blue"
+    pokedex: "It Lives On Mountains Perpetually Covered In Snow And Is Revered As A Deity Incarnate. It Appears Draped In A Blizzard."
+    generation: 7
+    flags: "Inheritformwitheverstone"
+    wilditemuncommon: "Snowball"
+}
+
+Form "Diglett,1" {
+    formname: "Alolan"
+    types: ['Ground', 'Steel']
+    basestats: ['10', '55', '30', '90', '35', '45']
+    abilities: ['Sandveil', 'Tanglinghair']
+    moves: ['1', 'Metalclaw', '1', 'Sandattack', '4', 'Growl', '8', 'Astonish', '12', 'Mudslap', '16', 'Bulldoze', '20', 'Suckerpunch', '24', 'Ironhead', '28', 'Sandstorm', '32', 'Dig', '36', 'Earthpower', '40', 'Earthquake', '44', 'Fissure']
+    tutormoves: ['Agility', 'Bodyslam', 'Bulldoze', 'Charm', 'Dig', 'Earthpower', 'Earthquake', 'Endure', 'Facade', 'Flashcannon', 'Foulplay', 'Helpinghand', 'Irondefense', 'Ironhead', 'Metalclaw', 'Metalsound', 'Mudshot', 'Mudslap', 'Protect', 'Rest', 'Reversal', 'Rockblast', 'Rockslide', 'Rocktomb', 'Sandstorm', 'Sandtomb', 'Scaryface', 'Scorchingsands', 'Shadowclaw', 'Sleeptalk', 'Sludgebomb', 'Smackdown', 'Stealthrock', 'Steelbeam', 'Stompingtantrum', 'Stoneedge', 'Substitute', 'Sunnyday', 'Swordsdance', 'Takedown', 'Thief']
+    eggmoves: ['Ancientpower', 'Finalgambit', 'Headbutt', 'Honeclaws', 'Memento', 'Metalsound', 'Thrash']
+    weight: 1.0
+    pokedex: ['Its Head Sports An Altered Form Of Whiskers Made Of Metal. When In Communication With Its Comrades', ' Its Whiskers Wobble To And Fro.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Dugtrio,1" {
+    formname: "Alolan"
+    types: ['Ground', 'Steel']
+    basestats: ['35', '100', '60', '110', '50', '70']
+    evs: ['Attack', '2']
+    abilities: ['Sandveil', 'Tanglinghair']
+    moves: ['0', 'Sandtomb', '1', 'Growl', '1', 'Triattack', '1', 'Metalclaw', '1', 'Astonish', '1', 'Nightslash', '1', 'Sandattack', '12', 'Mudslap', '16', 'Bulldoze', '20', 'Suckerpunch', '24', 'Ironhead', '30', 'Sandstorm', '36', 'Dig', '42', 'Earthpower', '48', 'Earthquake', '54', 'Fissure']
+    tutormoves: ['Agility', 'Bodyslam', 'Bulldoze', 'Charm', 'Curse', 'Dig', 'Doubleedge', 'Earthpower', 'Earthquake', 'Endeavor', 'Endure', 'Facade', 'Flashcannon', 'Foulplay', 'Gigaimpact', 'Helpinghand', 'Hyperbeam', 'Irondefense', 'Ironhead', 'Metalclaw', 'Metalsound', 'Mudshot', 'Mudslap', 'Protect', 'Rest', 'Reversal', 'Rockblast', 'Rockslide', 'Rocktomb', 'Sandstorm', 'Sandtomb', 'Scaryface', 'Scorchingsands', 'Shadowclaw', 'Sleeptalk', 'Sludgebomb', 'Sludgewave', 'Smackdown', 'Stealthrock', 'Steelbeam', 'Stompingtantrum', 'Stoneedge', 'Substitute', 'Sunnyday', 'Swordsdance', 'Takedown', 'Thief', 'Throatchop', 'Uproar']
+    weight: 66.6
+    pokedex: "Its Shining Gold Hair Provides It With Protection. It'S Reputed That Keeping Any Of Its Fallen Hairs Will Bring Bad Luck."
+    generation: 7
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Meowth,1" {
+    formname: "Alolan"
+    types: "Dark"
+    basestats: ['40', '35', '35', '90', '50', '40']
+    hiddenabilities: "Rattled"
+    moves: ['1', 'Fakeout', '1', 'Growl', '4', 'Feint', '8', 'Scratch', '12', 'Payday', '16', 'Bite', '20', 'Taunt', '24', 'Assurance', '29', 'Furyswipes', '32', 'Screech', '36', 'Nightslash', '40', 'Nastyplot', '44', 'Playrough']
+    tutormoves: ['Aerialace', 'Agility', 'Amnesia', 'Bodyslam', 'Charm', 'Chillingwater', 'Confuseray', 'Curse', 'Darkpulse', 'Dig', 'Doubleedge', 'Endeavor', 'Endure', 'Facade', 'Faketears', 'Foulplay', 'Gunkshot', 'Helpinghand', 'Hypervoice', 'Icywind', 'Knockoff', 'Lashout', 'Metalclaw', 'Nastyplot', 'Playrough', 'Powergem', 'Protect', 'Psychup', 'Raindance', 'Rest', 'Seedbomb', 'Shadowball', 'Shadowclaw', 'Sleeptalk', 'Snarl', 'Spite', 'Substitute', 'Sunnyday', 'Swift', 'Takedown', 'Taunt', 'Thief', 'Throatchop', 'Thunder', 'Thunderbolt', 'Thunderwave', 'Trailblaze', 'Uturn']
+    eggmoves: ['Covet', 'Flail', 'Flatter', 'Hypnosis', 'Partingshot', 'Spite']
+    color: "Blue"
+    pokedex: ["It'S Impulsive", ' Selfish', " And Fickle. It'S Very Popular With Some Trainers Who Like Giving It The Attention It Needs."]
+    generation: 7
+    flags: "Inheritformwitheverstone"
+    evolutions: ['Persian', 'Happiness', '']
+}
+
+Form "Meowth,2" {
+    formname: "Galarian"
+    types: "Steel"
+    basestats: ['50', '65', '55', '40', '40', '40']
+    abilities: ['Pickup', 'Toughclaws']
+    moves: ['1', 'Fakeout', '1', 'Growl', '4', 'Honeclaws', '8', 'Scratch', '12', 'Payday', '16', 'Metalclaw', '20', 'Taunt', '24', 'Swagger', '29', 'Furyswipes', '32', 'Screech', '36', 'Slash', '40', 'Metalsound', '44', 'Thrash']
+    tutormoves: ['Aerialace', 'Amnesia', 'Bodyslam', 'Brickbreak', 'Charm', 'Crunch', 'Curse', 'Darkpulse', 'Dig', 'Doubleedge', 'Endeavor', 'Endure', 'Facade', 'Faketears', 'Falseswipe', 'Flashcannon', 'Fling', 'Foulplay', 'Gunkshot', 'Gyroball', 'Helpinghand', 'Hypervoice', 'Irondefense', 'Ironhead', 'Knockoff', 'Lashout', 'Metalclaw', 'Metalsound', 'Metronome', 'Nastyplot', 'Playrough', 'Protect', 'Raindance', 'Rest', 'Seedbomb', 'Shadowball', 'Shadowclaw', 'Sleeptalk', 'Spite', 'Stealthrock', 'Steelbeam', 'Substitute', 'Sunnyday', 'Swordsdance', 'Takedown', 'Taunt', 'Thief', 'Throatchop', 'Thunder', 'Thunderbolt', 'Trailblaze', 'Uturn', 'Xscissor']
+    eggmoves: ['Covet', 'Curse', 'Doubleedge', 'Flail', 'Nightslash', 'Spite']
+    weight: 7.5
+    color: "Brown"
+    shape: "Bipedaltail"
+    pokedex: ['Living With A Savage', " Seafaring People Has Toughened This Pokémon'S Body So Much That Parts Of It Have Turned To Iron."]
+    generation: 8
+    flags: "Inheritformwitheverstone"
+    evolutions: ['Perrserker', 'Level', '28']
+}
+
+Form "Persian,1" {
+    formname: "Alolan"
+    types: "Dark"
+    basestats: ['65', '60', '60', '115', '75', '65']
+    abilities: ['Furcoat', 'Technician']
+    hiddenabilities: "Rattled"
+    moves: ['0', 'Powergem', '1', 'Growl', '1', 'Fakeout', '1', 'Feint', '1', 'Switcheroo', '1', 'Quash', '1', 'Scratch', '12', 'Payday', '16', 'Bite', '20', 'Taunt', '24', 'Assurance', '31', 'Furyswipes', '36', 'Screech', '42', 'Nightslash', '48', 'Nastyplot', '54', 'Playrough']
+    tutormoves: ['Aerialace', 'Agility', 'Amnesia', 'Bodyslam', 'Burningjealousy', 'Charm', 'Chillingwater', 'Confuseray', 'Curse', 'Darkpulse', 'Dig', 'Doubleedge', 'Endeavor', 'Endure', 'Facade', 'Faketears', 'Foulplay', 'Gigaimpact', 'Gunkshot', 'Helpinghand', 'Hyperbeam', 'Hypervoice', 'Icywind', 'Knockoff', 'Lashout', 'Metalclaw', 'Nastyplot', 'Playrough', 'Powergem', 'Protect', 'Psychup', 'Raindance', 'Rest', 'Roar', 'Seedbomb', 'Shadowball', 'Shadowclaw', 'Skittersmack', 'Sleeptalk', 'Smackdown', 'Snarl', 'Spite', 'Substitute', 'Sunnyday', 'Swift', 'Takedown', 'Taunt', 'Thief', 'Throatchop', 'Thunder', 'Thunderbolt', 'Thunderwave', 'Trailblaze', 'Uturn']
+    height: 1.1
+    weight: 33.0
+    color: "Blue"
+    pokedex: ['Its Round Face Is A Symbol Of Wealth. Persian That Have Bigger', ' Plumper Faces Are Considered More Beautiful.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Alakazam,1" {
+    formname: "Mega Alakazam"
+    megastone: "Alakazite"
+    basestats: ['55', '50', '65', '150', '175', '105']
+    baseexp: 300
+    abilities: "Trace"
+    hiddenabilities: "Trace"
+    height: 1.2
+    pokedex: ['Having Traded Away Its Muscles', " Alakazam'S True Power Has Been Unleashed. With Its Psychic Powers", ' It Can Foresee All Things.']
+    generation: 6
+}
+
+Form "Geodude,1" {
+    formname: "Alolan"
+    types: ['Rock', 'Electric']
+    abilities: ['Magnetpull', 'Sturdy']
+    hiddenabilities: "Galvanize"
+    moves: ['1', 'Defensecurl', '1', 'Tackle', '4', 'Charge', '6', 'Rockpolish', '10', 'Rollout', '12', 'Spark', '16', 'Rockthrow', '18', 'Smackdown', '22', 'Thunderpunch', '24', 'Selfdestruct', '28', 'Stealthrock', '30', 'Rockblast', '34', 'Discharge', '36', 'Explosion', '40', 'Doubleedge', '42', 'Stoneedge']
+    tutormoves: ['Bodyslam', 'Brickbreak', 'Bulldoze', 'Charge', 'Chargebeam', 'Curse', 'Dig', 'Doubleedge', 'Earthpower', 'Earthquake', 'Electroweb', 'Endure', 'Facade', 'Fireblast', 'Firepunch', 'Flamethrower', 'Fling', 'Focuspunch', 'Gyroball', 'Highhorsepower', 'Irondefense', 'Mudshot', 'Mudslap', 'Protect', 'Rest', 'Rockblast', 'Rockslide', 'Rocktomb', 'Sandstorm', 'Sleeptalk', 'Smackdown', 'Stealthrock', 'Stoneedge', 'Substitute', 'Sunnyday', 'Supercellslam', 'Takedown', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Thunderwave', 'Voltswitch', 'Wildcharge']
+    eggmoves: ['Block', 'Counter', 'Curse', 'Endure', 'Flail', 'Screech', 'Wideguard', 'Zapcannon']
+    weight: 20.3
+    color: "Gray"
+    pokedex: "Geodude Compete Against Each Other With Headbutts. The Iron Sand On Their Heads Will Stick To Whichever One Has Stronger Magnetism."
+    generation: 7
+    flags: "Inheritformwitheverstone"
+    wilditemuncommon: "Cellbattery"
+}
+
+Form "Graveler,1" {
+    formname: "Alolan"
+    types: ['Rock', 'Electric']
+    abilities: ['Magnetpull', 'Sturdy']
+    hiddenabilities: "Galvanize"
+    moves: ['1', 'Defensecurl', '1', 'Charge', '1', 'Rockpolish', '1', 'Tackle', '10', 'Rollout', '12', 'Spark', '16', 'Rockthrow', '18', 'Smackdown', '22', 'Thunderpunch', '24', 'Selfdestruct', '30', 'Stealthrock', '34', 'Rockblast', '40', 'Discharge', '44', 'Explosion', '50', 'Doubleedge', '54', 'Stoneedge']
+    tutormoves: ['Bodyslam', 'Brickbreak', 'Bulldoze', 'Charge', 'Chargebeam', 'Curse', 'Dig', 'Doubleedge', 'Earthpower', 'Earthquake', 'Electricterrain', 'Electroweb', 'Endure', 'Facade', 'Fireblast', 'Firepunch', 'Flamethrower', 'Fling', 'Focusblast', 'Focuspunch', 'Gyroball', 'Hardpress', 'Highhorsepower', 'Irondefense', 'Metronome', 'Mudshot', 'Mudslap', 'Protect', 'Rest', 'Rockblast', 'Rockslide', 'Rocktomb', 'Sandstorm', 'Scaryface', 'Sleeptalk', 'Smackdown', 'Stealthrock', 'Stompingtantrum', 'Stoneedge', 'Substitute', 'Sunnyday', 'Supercellslam', 'Takedown', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Thunderwave', 'Voltswitch', 'Wildcharge']
+    weight: 110.0
+    color: "Gray"
+    pokedex: "They Eat Rocks And Often Get Into A Scrap Over Them. The Shock Of Graveler Smashing Together Causes A Flash Of Light And A Booming Noise."
+    generation: 7
+    flags: "Inheritformwitheverstone"
+    wilditemuncommon: "Cellbattery"
+}
+
+Form "Golem,1" {
+    formname: "Alolan"
+    types: ['Rock', 'Electric']
+    abilities: ['Magnetpull', 'Sturdy']
+    hiddenabilities: "Galvanize"
+    moves: ['1', 'Defensecurl', '1', 'Charge', '1', 'Rockpolish', '1', 'Heavyslam', '1', 'Tackle', '12', 'Spark', '16', 'Rockthrow', '18', 'Smackdown', '22', 'Thunderpunch', '24', 'Selfdestruct', '30', 'Stealthrock', '34', 'Rockblast', '40', 'Discharge', '44', 'Explosion', '50', 'Doubleedge', '54', 'Stoneedge']
+    tutormoves: ['Bodypress', 'Bodyslam', 'Brickbreak', 'Bulldoze', 'Charge', 'Chargebeam', 'Curse', 'Dig', 'Doubleedge', 'Earthpower', 'Earthquake', 'Electricterrain', 'Electroweb', 'Endure', 'Facade', 'Fireblast', 'Firepunch', 'Flamethrower', 'Fling', 'Focusblast', 'Focuspunch', 'Gigaimpact', 'Gyroball', 'Hardpress', 'Heavyslam', 'Hyperbeam', 'Irondefense', 'Ironhead', 'Meteorbeam', 'Metronome', 'Mudshot', 'Mudslap', 'Protect', 'Rest', 'Roar', 'Rockblast', 'Rockslide', 'Rocktomb', 'Sandstorm', 'Scaryface', 'Sleeptalk', 'Smackdown', 'Stealthrock', 'Stompingtantrum', 'Stoneedge', 'Substitute', 'Sunnyday', 'Supercellslam', 'Takedown', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Thunderwave', 'Voltswitch', 'Wildcharge']
+    height: 1.7
+    weight: 316.0
+    color: "Gray"
+    pokedex: ["It Fires Rocks Charged With Electricity. Even If The Rock Isn'T Fired That Accurately", ' Just Grazing An Opponent Will Cause Numbness And Fainting.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+    wilditemcommon: "Cellbattery"
+}
+
+Form "Ponyta,1" {
+    formname: "Galarian"
+    types: "Psychic"
+    abilities: ['Runaway', 'Pastelveil']
+    hiddenabilities: "Anticipation"
+    moves: ['1', 'Growl', '1', 'Tackle', '5', 'Tailwhip', '10', 'Confusion', '15', 'Fairywind', '20', 'Agility', '25', 'Psybeam', '30', 'Stomp', '35', 'Healpulse', '41', 'Takedown', '45', 'Dazzlinggleam', '50', 'Psychic', '55', 'Healingwish']
+    tutormoves: ['Agility', 'Allyswitch', 'Attract', 'Bodyslam', 'Bounce', 'Calmmind', 'Captivate', 'Charm', 'Confide', 'Dazzlinggleam', 'Doubleedge', 'Doubleteam', 'Endure', 'Expandingforce', 'Facade', 'Frustration', 'Futuresight', 'Hiddenpower', 'Highhorsepower', 'Imprison', 'Irontail', 'Lowkick', 'Mimic', 'Mysticalfire', 'Naturalgift', 'Playrough', 'Protect', 'Psychic', 'Rest', 'Return', 'Round', 'Secretpower', 'Sleeptalk', 'Snore', 'Storedpower', 'Substitute', 'Swagger', 'Swift', 'Wildcharge', 'Zenheadbutt']
+    height: 0.8
+    weight: 24.0
+    color: "White"
+    category: "Unique Horn"
+    pokedex: ["Its Small Horn Hides A Healing Power. With A Few Rubs From This Pokémon'S Horn", ' Any Slight Wound You Have Will Be Healed.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Rapidash,1" {
+    formname: "Galarian"
+    types: ['Psychic', 'Fairy']
+    abilities: ['Runaway', 'Pastelveil']
+    hiddenabilities: "Anticipation"
+    moves: ['0', 'Psychocut', '1', 'Tackle', '1', 'Quickattack', '1', 'Growl', '1', 'Tailwhip', '1', 'Confusion', '1', 'Megahorn', '15', 'Fairywind', '20', 'Agility', '25', 'Psybeam', '30', 'Stomp', '35', 'Healpulse', '43', 'Takedown', '49', 'Dazzlinggleam', '56', 'Psychic', '63', 'Healingwish']
+    tutormoves: ['Agility', 'Allyswitch', 'Attract', 'Batonpass', 'Bodyslam', 'Bounce', 'Calmmind', 'Captivate', 'Charm', 'Confide', 'Dazzlinggleam', 'Doubleedge', 'Doubleteam', 'Drillrun', 'Endure', 'Expandingforce', 'Facade', 'Frustration', 'Futuresight', 'Gigaimpact', 'Hiddenpower', 'Highhorsepower', 'Hyperbeam', 'Imprison', 'Irontail', 'Lowkick', 'Magicroom', 'Megahorn', 'Mimic', 'Mistyterrain', 'Mysticalfire', 'Naturalgift', 'Payday', 'Playrough', 'Protect', 'Psychic', 'Psychicterrain', 'Psychocut', 'Rest', 'Return', 'Round', 'Secretpower', 'Sleeptalk', 'Smartstrike', 'Snore', 'Storedpower', 'Substitute', 'Swagger', 'Swift', 'Swordsdance', 'Throatchop', 'Trickroom', 'Wildcharge', 'Wonderroom', 'Zenheadbutt']
+    weight: 80.0
+    color: "White"
+    category: "Unique Horn"
+    pokedex: ["Little Can Stand Up To Its Psycho Cut. Unleashed From This Pokémon'S Horn", ' The Move Will Punch A Hole Right Through A Thick Metal Sheet.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Slowpoke,1" {
+    formname: "Galarian"
+    types: "Psychic"
+    abilities: ['Gluttony', 'Owntempo']
+    moves: ['1', 'Curse', '1', 'Tackle', '3', 'Growl', '6', 'Acid', '9', 'Yawn', '12', 'Confusion', '15', 'Disable', '18', 'Waterpulse', '21', 'Headbutt', '24', 'Zenheadbutt', '27', 'Amnesia', '30', 'Surf', '33', 'Slackoff', '36', 'Psychic', '39', 'Psychup', '42', 'Raindance', '45', 'Healpulse']
+    pokedex: ['Although This Pokémon Is Normally Zoned Out', " Its Expression Abruptly Sharpens On Occasion. The Cause For This Seems To Lie In Slowpoke'S Diet."]
+    generation: 8
+    flags: "Inheritformwitheverstone"
+    evolutions: ['Slowbro', 'Item', 'Galaricacuff', 'Slowking', 'Item', 'Galaricawreath']
+}
+
+Form "Slowbro,1" {
+    formname: "Galarian"
+    types: ['Poison', 'Psychic']
+    basestats: ['95', '100', '95', '30', '100', '70']
+    abilities: ['Quickdraw', 'Owntempo']
+    moves: ['0', 'Shellsidearm', '1', 'Tackle', '1', 'Growl', '1', 'Acid', '1', 'Withdraw', '1', 'Curse', '9', 'Yawn', '12', 'Confusion', '15', 'Disable', '18', 'Waterpulse', '21', 'Headbutt', '24', 'Zenheadbutt', '27', 'Amnesia', '30', 'Surf', '33', 'Slackoff', '36', 'Psychic', '39', 'Psychup', '42', 'Raindance', '45', 'Healpulse']
+    tutormoves: ['Acidspray', 'Amnesia', 'Avalanche', 'Blizzard', 'Bodypress', 'Bodyslam', 'Brickbreak', 'Bulldoze', 'Calmmind', 'Chillingwater', 'Curse', 'Dig', 'Doubleedge', 'Drainpunch', 'Earthquake', 'Endure', 'Expandingforce', 'Facade', 'Fireblast', 'Flamethrower', 'Fling', 'Focusblast', 'Foulplay', 'Gigaimpact', 'Grassknot', 'Gunkshot', 'Haze', 'Helpinghand', 'Hydropump', 'Hyperbeam', 'Icebeam', 'Icefang', 'Icepunch', 'Icywind', 'Imprison', 'Irondefense', 'Lightscreen', 'Liquidation', 'Metronome', 'Muddywater', 'Mudshot', 'Nastyplot', 'Poisonjab', 'Powergem', 'Protect', 'Psybeam', 'Psychic', 'Psychicterrain', 'Psychup', 'Psyshock', 'Raindance', 'Rest', 'Rockblast', 'Sandstorm', 'Scaryface', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Sludgebomb', 'Sludgewave', 'Smackdown', 'Snowscape', 'Storedpower', 'Substitute', 'Sunnyday', 'Surf', 'Swift', 'Takedown', 'Thunderwave', 'Toxic', 'Trick', 'Trickroom', 'Venoshock', 'Waterfall', 'Waterpulse', 'Weatherball', 'Whirlpool', 'Zenheadbutt']
+    weight: 70.5
+    pokedex: ['If This Pokémon Squeezes The Tongue Of The Shellder Biting It', ' The Shellder Will Launch A Toxic Liquid From The Tip Of Its Shell.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Slowbro,2" {
+    formname: "Mega Slowbro"
+    megastone: "Slowbronite"
+    basestats: ['95', '75', '180', '30', '130', '80']
+    baseexp: 207
+    abilities: "Shellarmor"
+    hiddenabilities: "Shellarmor"
+    height: 2.0
+    weight: 120.0
+    shape: "Headarms"
+    pokedex: ['Having Been Swallowed Whole By Shellder', " Slowbro Now Has An Iron Defense. It'S Pretty Comfortable In There", ' Too.']
+    generation: 6
+}
+
+Form "Farfetchd,1" {
+    formname: "Galarian"
+    types: "Fighting"
+    basestats: ['52', '95', '55', '55', '58', '62']
+    abilities: "Steadfast"
+    hiddenabilities: "Scrappy"
+    moves: ['1', 'Sandattack', '1', 'Peck', '5', 'Leer', '10', 'Furycutter', '15', 'Rocksmash', '20', 'Brutalswing', '25', 'Detect', '30', 'Knockoff', '35', 'Defog', '40', 'Brickbreak', '45', 'Swordsdance', '50', 'Slam', '55', 'Leafblade', '60', 'Finalgambit', '65', 'Bravebird']
+    tutormoves: ['Assurance', 'Attract', 'Bodyslam', 'Bravebird', 'Brickbreak', 'Brutalswing', 'Captivate', 'Closecombat', 'Confide', 'Doubleedge', 'Doubleteam', 'Dualwingbeat', 'Endure', 'Facade', 'Focusenergy', 'Frustration', 'Helpinghand', 'Hiddenpower', 'Leafblade', 'Mimic', 'Naturalgift', 'Poisonjab', 'Protect', 'Rest', 'Retaliate', 'Return', 'Revenge', 'Round', 'Secretpower', 'Sleeptalk', 'Snore', 'Solarblade', 'Steelwing', 'Substitute', 'Sunnyday', 'Superpower', 'Swagger', 'Swordsdance', 'Throatchop', 'Workup']
+    eggmoves: ['Counter', 'Covet', 'Curse', 'Doubleedge', 'Feint', 'Flail', 'Nightslash', 'Quickattack', 'Quickguard', 'Simplebeam', 'Skyattack']
+    weight: 42.0
+    pokedex: "The Stalks Of Leeks Are Thicker And Longer In The Galar Region. Farfetch'D That Adapted To These Stalks Took On A Unique Form."
+    generation: 8
+    flags: "Inheritformwitheverstone"
+    wilditemcommon: "Leek"
+    evolutions: ['Sirfetchd', 'Battledealcriticalhit', '3']
+}
+
+Form "Grimer,1" {
+    formname: "Alolan"
+    types: ['Poison', 'Dark']
+    abilities: ['Poisontouch', 'Gluttony']
+    hiddenabilities: "Powerofalchemy"
+    moves: ['1', 'Poisongas', '1', 'Pound', '4', 'Harden', '7', 'Bite', '12', 'Disable', '15', 'Acidspray', '18', 'Poisonfang', '21', 'Minimize', '26', 'Toxic', '29', 'Knockoff', '32', 'Crunch', '37', 'Screech', '40', 'Gunkshot', '43', 'Acidarmor', '46', 'Belch', '48', 'Memento']
+    tutormoves: ['Acidspray', 'Bodyslam', 'Brickbreak', 'Crunch', 'Curse', 'Darkpulse', 'Dig', 'Drainpunch', 'Endure', 'Facade', 'Fireblast', 'Firepunch', 'Flamethrower', 'Fling', 'Gigadrain', 'Gigaimpact', 'Gunkshot', 'Helpinghand', 'Hex', 'Hyperbeam', 'Icepunch', 'Imprison', 'Knockoff', 'Metronome', 'Mudshot', 'Mudslap', 'Painsplit', 'Poisonjab', 'Protect', 'Raindance', 'Rest', 'Rockslide', 'Rocktomb', 'Sandstorm', 'Scaryface', 'Shadowball', 'Sleeptalk', 'Sludgebomb', 'Sludgewave', 'Snarl', 'Spite', 'Stoneedge', 'Substitute', 'Sunnyday', 'Swift', 'Takedown', 'Taunt', 'Thief', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Toxic', 'Venoshock', 'Zenheadbutt']
+    eggmoves: ['Assurance', 'Clearsmog', 'Curse', 'Meanlook', 'Recycle', 'Shadowsneak', 'Spite', 'Spitup', 'Stockpile', 'Swallow']
+    height: 0.7
+    weight: 42.0
+    color: "Green"
+    pokedex: ['A Grimer', ' Which Had Been Brought In To Solve A Problem With Garbage', ' Developed Over Time Into This Form.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Muk,1" {
+    formname: "Alolan"
+    types: ['Poison', 'Dark']
+    abilities: ['Poisontouch', 'Gluttony']
+    hiddenabilities: "Powerofalchemy"
+    moves: ['1', 'Bite', '1', 'Harden', '1', 'Poisongas', '1', 'Pound', '12', 'Disable', '15', 'Acidspray', '18', 'Poisonfang', '21', 'Minimize', '26', 'Toxic', '29', 'Knockoff', '32', 'Crunch', '37', 'Screech', '40', 'Gunkshot', '46', 'Acidarmor', '52', 'Belch', '57', 'Memento']
+    tutormoves: ['Acidspray', 'Bodyslam', 'Brickbreak', 'Crunch', 'Curse', 'Darkpulse', 'Dig', 'Drainpunch', 'Endure', 'Facade', 'Fireblast', 'Firepunch', 'Flamethrower', 'Fling', 'Focusblast', 'Focuspunch', 'Gigadrain', 'Gigaimpact', 'Gunkshot', 'Haze', 'Helpinghand', 'Hex', 'Hyperbeam', 'Icepunch', 'Imprison', 'Knockoff', 'Lashout', 'Metronome', 'Mudshot', 'Mudslap', 'Painsplit', 'Poisonjab', 'Protect', 'Raindance', 'Rest', 'Rockslide', 'Rocktomb', 'Sandstorm', 'Scaryface', 'Shadowball', 'Sleeptalk', 'Sludgebomb', 'Sludgewave', 'Snarl', 'Spite', 'Stoneedge', 'Substitute', 'Sunnyday', 'Swift', 'Takedown', 'Taunt', 'Thief', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Toxic', 'Venoshock', 'Zenheadbutt']
+    height: 1.0
+    weight: 52.0
+    color: "Green"
+    pokedex: ['The Garbage It Eats Causes Continuous Chemical Changes In Its Body', ' Which Produce Its Exceedingly Vivid Coloration.']
+    generation: 7
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Gengar,1" {
+    formname: "Mega Gengar"
+    megastone: "Gengarite"
+    basestats: ['60', '65', '80', '130', '170', '95']
+    baseexp: 300
+    abilities: "Shadowtag"
+    hiddenabilities: "Shadowtag"
+    height: 1.4
+    pokedex: ['The Energy Of Mega Evolution Awakened It. It Sinks Into Another Dimension', ' Where It Keeps A Patient Watch For Its Chance To Attack.']
+    generation: 6
+}
+
+Form "Exeggutor,1" {
+    formname: "Alolan"
+    types: ['Grass', 'Dragon']
+    basestats: ['95', '105', '85', '45', '125', '75']
+    abilities: "Frisk"
+    moves: ['-1', 'Growth', '0', 'Dragonhammer', '1', 'Woodhammer', '1', 'Leafstorm', '1', 'Seedbomb', '1', 'Worryseed', '1', 'Bulletseed', '1', 'Extrasensory', '1', 'Uproar', '1', 'Synthesis', '1', 'Gigadrain', '1', 'Reflect', '1', 'Hypnosis', '1', 'Confusion', '1', 'Solarbeam', '1', 'Leechseed', '1', 'Megadrain', '1', 'Psyshock', '1', 'Absorb']
+    tutormoves: ['Bodyslam', 'Breakingswipe', 'Brickbreak', 'Bulldoze', 'Bulletseed', 'Calmmind', 'Curse', 'Doubleedge', 'Dracometeor', 'Dragoncheer', 'Dragonpulse', 'Dragontail', 'Earthquake', 'Endure', 'Energyball', 'Facade', 'Flamethrower', 'Gigadrain', 'Gigaimpact', 'Grassknot', 'Grassyglide', 'Grassyterrain', 'Gravity', 'Helpinghand', 'Hyperbeam', 'Imprison', 'Ironhead', 'Knockoff', 'Leafstorm', 'Lightscreen', 'Lowkick', 'Magicalleaf', 'Outrage', 'Protect', 'Psybeam', 'Psychic', 'Psychicnoise', 'Psychicterrain', 'Psychup', 'Psyshock', 'Reflect', 'Rest', 'Seedbomb', 'Skillswap', 'Sleeptalk', 'Sludgebomb', 'Solarbeam', 'Stompingtantrum', 'Storedpower', 'Substitute', 'Sunnyday', 'Swordsdance', 'Takedown', 'Thief', 'Trailblaze', 'Trick', 'Trickroom', 'Uproar', 'Zenheadbutt']
+    height: 10.9
+    weight: 415.6
+    pokedex: ['As It Grew Taller And Taller', ' It Outgrew Its Reliance On Psychic Powers', ' While Within It Awakened The Power Of The Sleeping Dragon.']
+    generation: 7
+}
+
+Form "Cubone,1" {
+    generation: 7
+    evolutions: ['Marowak', 'Levelnight', '28']
+}
+
+Form "Marowak,1" {
+    formname: "Alolan"
+    types: ['Fire', 'Ghost']
+    abilities: ['Cursedbody', 'Lightningrod']
+    hiddenabilities: "Rockhead"
+    moves: ['1', 'Tailwhip', '1', 'Boneclub', '1', 'Flamewheel', '1', 'Growl', '3', 'Tailwhip', '7', 'Boneclub', '11', 'Flamewheel', '13', 'Leer', '17', 'Hex', '21', 'Bonemerang', '23', 'Willowisp', '27', 'Shadowbone', '33', 'Thrash', '37', 'Fling', '43', 'Stompingtantrum', '49', 'Endeavor', '53', 'Flareblitz', '59', 'Retaliate', '65', 'Bonerush']
+    tutormoves: ['Aerialace', 'Allyswitch', 'Attract', 'Blizzard', 'Bodyslam', 'Brickbreak', 'Brutalswing', 'Bulldoze', 'Burningjealousy', 'Captivate', 'Confide', 'Counter', 'Darkpulse', 'Dig', 'Doubleedge', 'Doubleteam', 'Dreameater', 'Dynamicpunch', 'Earthpower', 'Earthquake', 'Echoedvoice', 'Endeavor', 'Endure', 'Facade', 'Falseswipe', 'Fireblast', 'Firepunch', 'Firespin', 'Flamecharge', 'Flamethrower', 'Flareblitz', 'Fling', 'Focusblast', 'Focusenergy', 'Focuspunch', 'Frustration', 'Furycutter', 'Gigaimpact', 'Headbutt', 'Heatwave', 'Hex', 'Hiddenpower', 'Hyperbeam', 'Icebeam', 'Icywind', 'Imprison', 'Incinerate', 'Irondefense', 'Ironhead', 'Irontail', 'Knockoff', 'Laserfocus', 'Lowkick', 'Megakick', 'Megapunch', 'Mimic', 'Mudslap', 'Naturalgift', 'Outrage', 'Painsplit', 'Poltergeist', 'Poweruppunch', 'Protect', 'Raindance', 'Rest', 'Retaliate', 'Return', 'Rockclimb', 'Rockslide', 'Rocksmash', 'Rocktomb', 'Round', 'Sandstorm', 'Scorchingsands', 'Screech', 'Secretpower', 'Seismictoss', 'Shadowball', 'Sleeptalk', 'Smackdown', 'Snore', 'Spite', 'Stealthrock', 'Stompingtantrum', 'Stoneedge', 'Strength', 'Substitute', 'Sunnyday', 'Swagger', 'Swift', 'Swordsdance', 'Thief', 'Throatchop', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Uproar', 'Willowisp']
+    weight: 34.0
+    color: "Purple"
+    pokedex: "Its Custom Is To Mourn Its Lost Companions. Mounds Of Dirt By The Side Of The Road Mark The Graves Of The Marowak."
+    generation: 7
+}
+
+Form "Weezing,1" {
+    formname: "Galarian"
+    types: ['Poison', 'Fairy']
+    hiddenabilities: "Mistysurge"
+    moves: ['0', 'Doublehit', '1', 'Strangesteam', '1', 'Defog', '1', 'Heatwave', '1', 'Aromaticmist', '1', 'Poisongas', '1', 'Tackle', '1', 'Smog', '1', 'Haze', '1', 'Smokescreen', '12', 'Clearsmog', '16', 'Assurance', '20', 'Sludge', '24', 'Fairywind', '28', 'Selfdestruct', '32', 'Sludgebomb', '38', 'Toxic', '44', 'Belch', '50', 'Explosion', '56', 'Memento', '62', 'Destinybond', '68', 'Mistyterrain']
+    tutormoves: ['Acidspray', 'Bodyslam', 'Curse', 'Darkpulse', 'Dazzlinggleam', 'Doubleedge', 'Endure', 'Facade', 'Fireblast', 'Flamethrower', 'Gigaimpact', 'Gunkshot', 'Gyroball', 'Haze', 'Heatwave', 'Hyperbeam', 'Mistyexplosion', 'Mistyterrain', 'Overheat', 'Painsplit', 'Playrough', 'Protect', 'Psybeam', 'Raindance', 'Rest', 'Scaryface', 'Shadowball', 'Sleeptalk', 'Sludgebomb', 'Sludgewave', 'Spite', 'Substitute', 'Sunnyday', 'Takedown', 'Taunt', 'Thief', 'Thunder', 'Thunderbolt', 'Toxic', 'Toxicspikes', 'Venoshock', 'Willowisp']
+    height: 3.0
+    weight: 16.0
+    color: "Gray"
+    pokedex: ['This Pokémon Consumes Particles That Contaminate The Air. Instead Of Leaving Droppings', ' It Expels Clean Air.']
+    generation: 8
+    wilditemuncommon: "Mistyseed"
+}
+
+Form "Kangaskhan,1" {
+    formname: "Mega Kangaskhan"
+    megastone: "Kangaskhanite"
+    basestats: ['105', '125', '100', '100', '60', '100']
+    baseexp: 207
+    abilities: "Parentalbond"
+    hiddenabilities: "Parentalbond"
+    weight: 100.0
+    pokedex: "The Explosive Energy The Child Is Bathed In Causes Temporary Growth. The Mother Is Beside Herself With Worry About It."
+    generation: 6
+}
+
+Form "Mrmime,1" {
+    formname: "Galarian"
+    types: ['Ice', 'Psychic']
+    basestats: ['50', '65', '65', '100', '90', '90']
+    evs: ['Speed', '2']
+    abilities: ['Vitalspirit', 'Screencleaner']
+    hiddenabilities: "Icebody"
+    moves: ['1', 'Copycat', '1', 'Encore', '1', 'Roleplay', '1', 'Protect', '1', 'Recycle', '1', 'Mimic', '1', 'Lightscreen', '1', 'Reflect', '1', 'Safeguard', '1', 'Dazzlinggleam', '1', 'Mistyterrain', '1', 'Pound', '1', 'Rapidspin', '1', 'Batonpass', '1', 'Iceshard', '12', 'Confusion', '16', 'Allyswitch', '20', 'Icywind', '24', 'Doublekick', '28', 'Psybeam', '32', 'Hypnosis', '36', 'Mirrorcoat', '40', 'Suckerpunch', '44', 'Freezedry', '48', 'Psychic', '52', 'Teeterdance']
+    tutormoves: ['Allyswitch', 'Attract', 'Avalanche', 'Batonpass', 'Blizzard', 'Bodyslam', 'Brickbreak', 'Calmmind', 'Captivate', 'Chargebeam', 'Charm', 'Confide', 'Covet', 'Dazzlinggleam', 'Doubleedge', 'Doubleteam', 'Drainpunch', 'Dreameater', 'Encore', 'Endure', 'Energyball', 'Expandingforce', 'Facade', 'Flash', 'Fling', 'Focusblast', 'Focuspunch', 'Foulplay', 'Frustration', 'Futuresight', 'Gigaimpact', 'Grassknot', 'Guardswap', 'Hail', 'Headbutt', 'Helpinghand', 'Hiddenpower', 'Hyperbeam', 'Icebeam', 'Icepunch', 'Iciclespear', 'Icywind', 'Infestation', 'Irondefense', 'Lightscreen', 'Magiccoat', 'Magicroom', 'Megakick', 'Megapunch', 'Metronome', 'Mimic', 'Mistyterrain', 'Mudslap', 'Nastyplot', 'Naturalgift', 'Payback', 'Powerswap', 'Protect', 'Psychic', 'Psychicterrain', 'Psychup', 'Psyshock', 'Raindance', 'Recycle', 'Reflect', 'Rest', 'Return', 'Roleplay', 'Round', 'Safeguard', 'Screech', 'Secretpower', 'Shadowball', 'Shockwave', 'Signalbeam', 'Skillswap', 'Sleeptalk', 'Snatch', 'Snore', 'Solarbeam', 'Stompingtantrum', 'Storedpower', 'Substitute', 'Sunnyday', 'Swagger', 'Taunt', 'Telekinesis', 'Thief', 'Thunder', 'Thunderbolt', 'Thunderwave', 'Torment', 'Trick', 'Trickroom', 'Tripleaxel', 'Uproar', 'Wonderroom', 'Zenheadbutt']
+    height: 1.4
+    weight: 56.8
+    color: "White"
+    category: "Dancing"
+    pokedex: ['Its Talent Is Tap-Dancing. It Can Also Manipulate Temperatures To Create A Floor Of Ice', ' Which This Pokémon Can Kick Up To Use As A Barrier.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+    evolutions: ['Mrrime', 'Level', '42']
+}
+
+Form "Pinsir,1" {
+    formname: "Mega Pinsir"
+    megastone: "Pinsirite"
+    types: ['Bug', 'Flying']
+    basestats: ['65', '155', '120', '105', '65', '90']
+    baseexp: 210
+    abilities: "Aerilate"
+    hiddenabilities: "Aerilate"
+    height: 1.7
+    weight: 59.0
+    shape: "Multiwinged"
+    pokedex: ['It Zips Around At Blistering Speeds', ' Looking For An Opening To Skewer Its Opponent On Its Giant Pincers.']
+    generation: 6
+}
+
+Form "Gyarados,1" {
+    formname: "Mega Gyarados"
+    megastone: "Gyaradosite"
+    types: ['Water', 'Dark']
+    basestats: ['95', '155', '109', '81', '70', '130']
+    baseexp: 224
+    abilities: "Moldbreaker"
+    hiddenabilities: "Moldbreaker"
+    weight: 305.0
+    pokedex: "It Zooms Out Of The Water At Mach Speeds. Even Large Ships Caught In Its Path Are Split Cleanly In Two!"
+    generation: 6
+}
+
+Form "Aerodactyl,1" {
+    formname: "Mega Aerodactyl"
+    megastone: "Aerodactylite"
+    basestats: ['80', '135', '85', '150', '70', '95']
+    baseexp: 215
+    abilities: "Toughclaws"
+    hiddenabilities: "Toughclaws"
+    height: 2.1
+    weight: 79.0
+    pokedex: ['When It Mega Evolves', " It Becomes More Vicious Than Ever Before. Some Say That'S Because Its Excess Of Power Is Causing It Pain."]
+    generation: 6
+}
+
+Form "Articuno,1" {
+    formname: "Galarian"
+    types: ['Psychic', 'Flying']
+    basestats: ['90', '85', '85', '95', '125', '100']
+    evs: ['SpecialAttack', '3']
+    abilities: "Competitive"
+    hiddenabilities: "Competitive"
+    moves: ['1', 'Gust', '5', 'Confusion', '10', 'Reflect', '15', 'Hypnosis', '20', 'Agility', '25', 'Ancientpower', '30', 'Tailwind', '35', 'Psychocut', '40', 'Recover', '45', 'Freezingglare', '50', 'Dreameater', '55', 'Hurricane', '60', 'Doubleteam', '65', 'Futuresight', '70', 'Trickroom']
+    tutormoves: ['Agility', 'Aircutter', 'Airslash', 'Bravebird', 'Calmmind', 'Dualwingbeat', 'Endure', 'Expandingforce', 'Facade', 'Fly', 'Futuresight', 'Gigaimpact', 'Helpinghand', 'Hurricane', 'Hyperbeam', 'Hypervoice', 'Imprison', 'Lightscreen', 'Protect', 'Psybeam', 'Psychic', 'Psychicnoise', 'Psyshock', 'Raindance', 'Reflect', 'Rest', 'Scaryface', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Snowscape', 'Storedpower', 'Substitute', 'Sunnyday', 'Swift', 'Tailwind', 'Takedown', 'Trick', 'Trickroom', 'Uturn']
+    weight: 50.9
+    color: "Purple"
+    category: "Cruel"
+    pokedex: "Its Feather-Like Blades Are Composed Of Psychic Energy And Can Shear Through Thick Iron Sheets As If They Were Paper."
+    generation: 8
+}
+
+Form "Zapdos,1" {
+    formname: "Galarian"
+    types: ['Fighting', 'Flying']
+    basestats: ['90', '125', '90', '100', '85', '90']
+    evs: ['Attack', '3']
+    abilities: "Defiant"
+    hiddenabilities: "Defiant"
+    moves: ['1', 'Focusenergy', '1', 'Peck', '5', 'Rocksmash', '10', 'Lightscreen', '15', 'Pluck', '20', 'Agility', '25', 'Ancientpower', '30', 'Brickbreak', '35', 'Drillpeck', '40', 'Quickguard', '45', 'Thunderouskick', '50', 'Bulkup', '55', 'Counter', '60', 'Detect', '65', 'Closecombat', '70', 'Reversal']
+    tutormoves: ['Acrobatics', 'Aerialace', 'Agility', 'Bravebird', 'Brickbreak', 'Bulkup', 'Closecombat', 'Coaching', 'Doubleedge', 'Dualwingbeat', 'Endeavor', 'Endure', 'Facade', 'Fly', 'Gigaimpact', 'Helpinghand', 'Hurricane', 'Hyperbeam', 'Knockoff', 'Lightscreen', 'Lowkick', 'Lowsweep', 'Protect', 'Raindance', 'Rest', 'Reversal', 'Sandstorm', 'Scaryface', 'Sleeptalk', 'Stompingtantrum', 'Substitute', 'Sunnyday', 'Swift', 'Tailwind', 'Takedown', 'Taunt', 'Throatchop', 'Trailblaze', 'Uturn']
+    weight: 58.2
+    category: "Strong Legs"
+    pokedex: ['When Its Feathers Rub Together', " They Produce A Crackling Sound Like The Zapping Of Electricity. That'S Why This Pokémon Is Called Zapdos."]
+    generation: 8
+}
+
+Form "Moltres,1" {
+    formname: "Galarian"
+    types: ['Dark', 'Flying']
+    basestats: ['90', '85', '90', '90', '100', '125']
+    evs: ['SpecialDefense', '3']
+    abilities: "Berserk"
+    hiddenabilities: "Berserk"
+    moves: ['1', 'Leer', '1', 'Gust', '5', 'Payback', '10', 'Safeguard', '15', 'Wingattack', '20', 'Agility', '25', 'Ancientpower', '30', 'Suckerpunch', '35', 'Airslash', '40', 'Afteryou', '45', 'Fierywrath', '50', 'Nastyplot', '55', 'Hurricane', '60', 'Endure', '65', 'Memento', '70', 'Skyattack']
+    tutormoves: ['Acrobatics', 'Aerialace', 'Agility', 'Airslash', 'Bravebird', 'Darkpulse', 'Dualwingbeat', 'Endure', 'Facade', 'Fly', 'Foulplay', 'Gigaimpact', 'Helpinghand', 'Hex', 'Hurricane', 'Hyperbeam', 'Hypervoice', 'Imprison', 'Lashout', 'Nastyplot', 'Painsplit', 'Protect', 'Raindance', 'Rest', 'Sandstorm', 'Scaryface', 'Shadowball', 'Sleeptalk', 'Snarl', 'Spite', 'Substitute', 'Sunnyday', 'Swift', 'Tailwind', 'Takedown', 'Taunt', 'Thief', 'Uturn']
+    weight: 66.0
+    color: "Red"
+    category: "Malevolent"
+    pokedex: ["This Pokémon'S Sinister", ' Flame-Like Aura Will Consume The Spirit Of Any Creature It Hits. Victims Become Burned-Out Shadows Of Themselves.']
+    generation: 8
+}
+
+Form "Mewtwo,1" {
+    formname: "Mega Mewtwo X"
+    megastone: "Mewtwonitex"
+    types: ['Psychic', 'Fighting']
+    basestats: ['106', '190', '100', '130', '154', '100']
+    baseexp: 390
+    abilities: "Steadfast"
+    hiddenabilities: "Steadfast"
+    height: 2.3
+    weight: 127.0
+    pokedex: "Psychic Power Has Augmented Its Muscles. It Has A Grip Strength Of One Ton And Can Sprint A Hundred Meters In Two Seconds Flat!"
+    generation: 6
+}
+
+Form "Mewtwo,2" {
+    formname: "Mega Mewtwo Y"
+    megastone: "Mewtwonitey"
+    basestats: ['106', '150', '70', '140', '194', '120']
+    baseexp: 390
+    abilities: "Insomnia"
+    hiddenabilities: "Insomnia"
+    height: 1.5
+    weight: 33.0
+    pokedex: ['Despite Its Diminished Size', ' Its Mental Power Has Grown Phenomenally. With A Mere Thought', ' It Can Smash A Skyscraper To Smithereens.']
+    generation: 6
+}
+
+Form "Pichu,2" {
+    formname: "Spiky-Eared"
+    generation: 4
+    evolutions: ['Pikachu', 'None', '']
+}
+
+Form "Ampharos,1" {
+    formname: "Mega Ampharos"
+    megastone: "Ampharosite"
+    types: ['Electric', 'Dragon']
+    basestats: ['90', '95', '105', '45', '165', '110']
+    baseexp: 305
+    abilities: "Moldbreaker"
+    hiddenabilities: "Moldbreaker"
+    pokedex: ["Massive Amounts Of Energy Intensely Stimulated Ampharos'S Cells", " Apparently Awakening Its Long-Sleeping Dragon'S Blood."]
+    generation: 6
+}
+
+Form "Slowking,1" {
+    formname: "Galarian"
+    types: ['Poison', 'Psychic']
+    basestats: ['95', '65', '80', '30', '110', '110']
+    abilities: ['Curiousmedicine', 'Owntempo']
+    moves: ['-1', 'Futuresight', '-1', 'Chillyreception', '-1', 'Toxic', '0', 'Eeriespell', '1', 'Nastyplot', '1', 'Powergem', '1', 'Curse', '1', 'Swagger', '1', 'Growl', '1', 'Tackle', '1', 'Acid', '9', 'Yawn', '12', 'Confusion', '15', 'Disable', '18', 'Waterpulse', '21', 'Headbutt', '24', 'Zenheadbutt', '27', 'Amnesia', '30', 'Surf', '33', 'Slackoff', '36', 'Psychic', '39', 'Psychup', '42', 'Raindance', '45', 'Healpulse']
+    tutormoves: ['Acidspray', 'Amnesia', 'Avalanche', 'Blizzard', 'Bodyslam', 'Brickbreak', 'Bulldoze', 'Calmmind', 'Chillingwater', 'Curse', 'Dig', 'Drainpunch', 'Earthquake', 'Endure', 'Expandingforce', 'Facade', 'Fireblast', 'Firepunch', 'Flamethrower', 'Fling', 'Focusblast', 'Foulplay', 'Futuresight', 'Gigaimpact', 'Grassknot', 'Gunkshot', 'Helpinghand', 'Hex', 'Hydropump', 'Hyperbeam', 'Icebeam', 'Icywind', 'Imprison', 'Irondefense', 'Lightscreen', 'Liquidation', 'Lowsweep', 'Metronome', 'Muddywater', 'Mudshot', 'Nastyplot', 'Poisonjab', 'Powergem', 'Protect', 'Psybeam', 'Psychic', 'Psychicnoise', 'Psychicterrain', 'Psychup', 'Psyshock', 'Raindance', 'Rest', 'Scaryface', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Sludgebomb', 'Sludgewave', 'Snarl', 'Snowscape', 'Stompingtantrum', 'Storedpower', 'Substitute', 'Sunnyday', 'Surf', 'Swift', 'Takedown', 'Taunt', 'Thunderpunch', 'Thunderwave', 'Toxic', 'Toxicspikes', 'Trick', 'Trickroom', 'Venoshock', 'Waterfall', 'Waterpulse', 'Weatherball', 'Whirlpool', 'Zenheadbutt']
+    height: 1.8
+    category: "Hexpert"
+    pokedex: ['While Chanting Strange Spells', " This Pokémon Combines Its Internal Toxins With What It'S Eaten", ' Creating Strange Potions.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Unown,1" {
+    formname: "B"
+}
+
+Form "Unown,2" {
+    formname: "C"
+}
+
+Form "Unown,3" {
+    formname: "D"
+}
+
+Form "Unown,4" {
+    formname: "E"
+}
+
+Form "Unown,5" {
+    formname: "F"
+}
+
+Form "Unown,6" {
+    formname: "G"
+}
+
+Form "Unown,7" {
+    formname: "H"
+}
+
+Form "Unown,8" {
+    formname: "I"
+}
+
+Form "Unown,9" {
+    formname: "J"
+}
+
+Form "Unown,10" {
+    formname: "K"
+}
+
+Form "Unown,11" {
+    formname: "L"
+}
+
+Form "Unown,12" {
+    formname: "M"
+}
+
+Form "Unown,13" {
+    formname: "N"
+}
+
+Form "Unown,14" {
+    formname: "O"
+}
+
+Form "Unown,15" {
+    formname: "P"
+}
+
+Form "Unown,16" {
+    formname: "Q"
+}
+
+Form "Unown,17" {
+    formname: "R"
+}
+
+Form "Unown,18" {
+    formname: "S"
+}
+
+Form "Unown,19" {
+    formname: "T"
+}
+
+Form "Unown,20" {
+    formname: "U"
+}
+
+Form "Unown,21" {
+    formname: "V"
+}
+
+Form "Unown,22" {
+    formname: "W"
+}
+
+Form "Unown,23" {
+    formname: "X"
+}
+
+Form "Unown,24" {
+    formname: "Y"
+}
+
+Form "Unown,25" {
+    formname: "Z"
+}
+
+Form "Unown,26" {
+    formname: "?"
+    generation: 3
+}
+
+Form "Unown,27" {
+    formname: "!"
+    generation: 3
+}
+
+Form "Steelix,1" {
+    formname: "Mega Steelix"
+    megastone: "Steelixite"
+    basestats: ['75', '125', '230', '30', '55', '95']
+    baseexp: 214
+    abilities: "Sandforce"
+    hiddenabilities: "Sandforce"
+    height: 10.5
+    weight: 740.0
+    generation: 6
+}
+
+Form "Scizor,1" {
+    formname: "Mega Scizor"
+    megastone: "Scizorite"
+    basestats: ['70', '150', '140', '65', '100', '75']
+    baseexp: 210
+    abilities: "Technician"
+    hiddenabilities: "Technician"
+    height: 2.0
+    weight: 125.0
+    pokedex: ["It'S Better At Beating Things Than Grasping Them. When It Battles For A Long Time", ' The Weight Of Its Pincers Becomes Too Much To Bear.']
+    generation: 6
+}
+
+Form "Heracross,1" {
+    formname: "Mega Heracross"
+    megastone: "Heracronite"
+    basestats: ['80', '185', '115', '75', '40', '105']
+    baseexp: 210
+    abilities: "Skilllink"
+    hiddenabilities: "Skilllink"
+    height: 1.7
+    weight: 62.5
+    pokedex: ['A Tremendous Influx Of Energy Builds It Up', ' But When Mega Evolution Ends', ' Heracross Is Bothered By Terrible Soreness In Its Muscles.']
+    generation: 6
+}
+
+Form "Corsola,1" {
+    formname: "Galarian"
+    types: "Ghost"
+    basestats: ['60', '55', '100', '30', '65', '100']
+    abilities: "Weakarmor"
+    hiddenabilities: "Cursedbody"
+    moves: ['1', 'Harden', '1', 'Tackle', '5', 'Astonish', '10', 'Disable', '15', 'Spite', '20', 'Ancientpower', '25', 'Hex', '30', 'Curse', '35', 'Strengthsap', '40', 'Powergem', '45', 'Nightshade', '50', 'Grudge', '55', 'Mirrorcoat']
+    tutormoves: ['Amnesia', 'Attract', 'Blizzard', 'Bodyslam', 'Brine', 'Bulldoze', 'Calmmind', 'Captivate', 'Confide', 'Dig', 'Doubleedge', 'Doubleteam', 'Earthpower', 'Earthquake', 'Endure', 'Facade', 'Frustration', 'Gigadrain', 'Hail', 'Hex', 'Hiddenpower', 'Hydropump', 'Icebeam', 'Iciclespear', 'Icywind', 'Irondefense', 'Lightscreen', 'Liquidation', 'Meteorbeam', 'Mimic', 'Naturalgift', 'Powergem', 'Protect', 'Psychic', 'Raindance', 'Reflect', 'Rest', 'Return', 'Rockblast', 'Rockslide', 'Rocktomb', 'Round', 'Safeguard', 'Sandstorm', 'Scald', 'Screech', 'Secretpower', 'Selfdestruct', 'Shadowball', 'Sleeptalk', 'Snore', 'Stealthrock', 'Stompingtantrum', 'Stoneedge', 'Substitute', 'Sunnyday', 'Surf', 'Swagger', 'Throatchop', 'Whirlpool', 'Willowisp']
+    eggmoves: ['Confuseray', 'Destinybond', 'Haze', 'Headsmash', 'Naturepower', 'Waterpulse']
+    weight: 0.5
+    color: "White"
+    pokedex: "Sudden Climate Change Wiped Out This Ancient Kind Of Corsola. This Pokémon Absorbs Others' Life-Force Through Its Branches."
+    generation: 8
+    flags: "Inheritformwitheverstone"
+    evolutions: ['Cursola', 'Level', '38']
+}
+
+Form "Houndoom,1" {
+    formname: "Mega Houndoom"
+    megastone: "Houndoominite"
+    basestats: ['75', '90', '90', '115', '140', '90']
+    baseexp: 210
+    abilities: "Solarpower"
+    hiddenabilities: "Solarpower"
+    height: 1.9
+    weight: 49.5
+    pokedex: "Its Red Claws And The Tips Of Its Tail Are Melting From High Internal Temperatures That Are Painful To Houndoom Itself."
+    generation: 6
+}
+
+Form "Tyranitar,1" {
+    formname: "Mega Tyranitar"
+    megastone: "Tyranitarite"
+    basestats: ['100', '164', '150', '71', '95', '120']
+    baseexp: 350
+    hiddenabilities: "Sandstream"
+    height: 2.5
+    weight: 255.0
+    pokedex: ['Due To The Colossal Power Poured Into It', " This Pokémon'S Back Split Right Open. Its Destructive Instincts Are The Only Thing Keeping It Moving."]
+    generation: 6
+}
+
+Form "Sceptile,1" {
+    formname: "Mega Sceptile"
+    megastone: "Sceptilite"
+    types: ['Grass', 'Dragon']
+    basestats: ['70', '110', '75', '145', '145', '85']
+    baseexp: 315
+    abilities: "Lightningrod"
+    hiddenabilities: "Lightningrod"
+    height: 1.9
+    weight: 55.2
+    generation: 6
+}
+
+Form "Blaziken,1" {
+    formname: "Mega Blaziken"
+    megastone: "Blazikenite"
+    basestats: ['80', '160', '80', '100', '130', '80']
+    baseexp: 315
+    abilities: "Speedboost"
+    generation: 6
+}
+
+Form "Swampert,1" {
+    formname: "Mega Swampert"
+    megastone: "Swampertite"
+    basestats: ['100', '150', '110', '70', '95', '110']
+    baseexp: 318
+    abilities: "Swiftswim"
+    hiddenabilities: "Swiftswim"
+    height: 1.9
+    weight: 102.0
+    generation: 6
+}
+
+Form "Zigzagoon,1" {
+    formname: "Galarian"
+    types: ['Dark', 'Normal']
+    moves: ['1', 'Leer', '1', 'Tackle', '3', 'Sandattack', '6', 'Lick', '9', 'Snarl', '12', 'Headbutt', '15', 'Babydolleyes', '18', 'Pinmissile', '21', 'Rest', '24', 'Takedown', '27', 'Scaryface', '30', 'Counter', '33', 'Taunt', '36', 'Doubleedge']
+    tutormoves: ['Assurance', 'Attract', 'Blizzard', 'Bodyslam', 'Captivate', 'Confide', 'Dig', 'Doubleedge', 'Doubleteam', 'Endure', 'Facade', 'Faketears', 'Fling', 'Frustration', 'Grassknot', 'Gunkshot', 'Helpinghand', 'Hiddenpower', 'Hypervoice', 'Icebeam', 'Icywind', 'Irontail', 'Lashout', 'Mimic', 'Mudshot', 'Naturalgift', 'Payback', 'Pinmissile', 'Protect', 'Raindance', 'Rest', 'Retaliate', 'Return', 'Round', 'Scaryface', 'Screech', 'Secretpower', 'Seedbomb', 'Shadowball', 'Sleeptalk', 'Snarl', 'Snore', 'Substitute', 'Sunnyday', 'Surf', 'Swagger', 'Swift', 'Taunt', 'Thief', 'Thunder', 'Thunderbolt', 'Thunderwave', 'Trick', 'Whirlpool', 'Workup']
+    eggmoves: ['Knockoff', 'Partingshot', 'Quickguard']
+    color: "White"
+    pokedex: ['Its Restlessness Has It Constantly Running Around. If It Sees Another Pokémon', ' It Will Purposely Run Into Them In Order To Start A Fight.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Linoone,1" {
+    formname: "Galarian"
+    types: ['Dark', 'Normal']
+    moves: ['0', 'Nightslash', '1', 'Switcheroo', '1', 'Pinmissile', '1', 'Babydolleyes', '1', 'Tackle', '1', 'Leer', '1', 'Sandattack', '1', 'Lick', '9', 'Snarl', '12', 'Headbutt', '15', 'Honeclaws', '18', 'Furyswipes', '23', 'Rest', '28', 'Takedown', '33', 'Scaryface', '38', 'Counter', '43', 'Taunt', '48', 'Doubleedge']
+    tutormoves: ['Assurance', 'Attract', 'Blizzard', 'Bodypress', 'Bodyslam', 'Captivate', 'Confide', 'Dig', 'Doubleedge', 'Doubleteam', 'Endure', 'Facade', 'Faketears', 'Fling', 'Frustration', 'Gigaimpact', 'Grassknot', 'Gunkshot', 'Helpinghand', 'Hiddenpower', 'Hyperbeam', 'Hypervoice', 'Icebeam', 'Icywind', 'Irontail', 'Lashout', 'Mimic', 'Mudshot', 'Naturalgift', 'Payback', 'Pinmissile', 'Protect', 'Raindance', 'Rest', 'Retaliate', 'Return', 'Round', 'Scaryface', 'Screech', 'Secretpower', 'Seedbomb', 'Shadowball', 'Shadowclaw', 'Sleeptalk', 'Snarl', 'Snore', 'Stompingtantrum', 'Substitute', 'Sunnyday', 'Surf', 'Swagger', 'Swift', 'Taunt', 'Thief', 'Throatchop', 'Thunder', 'Thunderbolt', 'Thunderwave', 'Trick', 'Whirlpool', 'Workup']
+    pokedex: ['It Uses Its Long Tongue To Taunt Opponents. Once The Opposition Is Enraged', ' This Pokémon Hurls Itself At The Opponent', ' Tackling Them Forcefully.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+    evolutions: ['Obstagoon', 'Levelnight', '35']
+}
+
+Form "Gardevoir,1" {
+    formname: "Mega Gardevoir"
+    megastone: "Gardevoirite"
+    basestats: ['68', '85', '65', '100', '165', '135']
+    baseexp: 309
+    abilities: "Pixilate"
+    hiddenabilities: "Pixilate"
+    generation: 6
+}
+
+Form "Sableye,1" {
+    formname: "Mega Sableye"
+    megastone: "Sablenite"
+    basestats: ['50', '85', '125', '20', '85', '115']
+    baseexp: 168
+    abilities: "Magicbounce"
+    hiddenabilities: "Magicbounce"
+    weight: 161.0
+    pokedex: ['Supporting A Giant Heavy Jewel', " It Can'T Change Direction Very Nimbly And Is Vulnerable To Attack From Behind."]
+    generation: 6
+}
+
+Form "Mawile,1" {
+    formname: "Mega Mawile"
+    megastone: "Mawilite"
+    basestats: ['50', '105', '125', '50', '55', '95']
+    baseexp: 168
+    abilities: "Hugepower"
+    hiddenabilities: "Hugepower"
+    height: 1.0
+    weight: 23.5
+    pokedex: "Its Two Sets Of Jaws Thrash About Violently As If They Each Had A Will Of Their Own. One Gnash From Them Can Turn A Boulder To Dust."
+    generation: 6
+}
+
+Form "Aggron,1" {
+    formname: "Mega Aggron"
+    megastone: "Aggronite"
+    types: "Steel"
+    basestats: ['70', '140', '230', '50', '60', '80']
+    abilities: "Filter"
+    hiddenabilities: "Filter"
+    height: 2.2
+    weight: 395.0
+    generation: 6
+}
+
+Form "Medicham,1" {
+    formname: "Mega Medicham"
+    megastone: "Medichamite"
+    basestats: ['60', '100', '85', '100', '80', '85']
+    baseexp: 179
+    hiddenabilities: "Purepower"
+    generation: 6
+}
+
+Form "Manectric,1" {
+    formname: "Mega Manectric"
+    megastone: "Manectite"
+    basestats: ['70', '75', '80', '135', '135', '80']
+    baseexp: 201
+    abilities: "Intimidate"
+    hiddenabilities: "Intimidate"
+    height: 1.8
+    weight: 44.0
+    pokedex: ['Too Much Electricity Has Built Up In Its Body', ' Irritating Manectric. Its Explosive Speed Is Equal To That Of A Lightning Bolt.']
+    generation: 6
+}
+
+Form "Sharpedo,1" {
+    formname: "Mega Sharpedo"
+    megastone: "Sharpedonite"
+    basestats: ['70', '140', '70', '105', '110', '65']
+    baseexp: 196
+    abilities: "Strongjaw"
+    hiddenabilities: "Strongjaw"
+    height: 2.5
+    weight: 130.3
+    pokedex: ['The Yellow Patterns It Bears Are Old Scars. The Energy From Mega Evolution Runs Through Them', ' Causing It Sharp Pain And Suffering.']
+    generation: 6
+}
+
+Form "Camerupt,1" {
+    formname: "Mega Camerupt"
+    megastone: "Cameruptite"
+    basestats: ['70', '120', '100', '20', '145', '105']
+    baseexp: 196
+    abilities: "Sheerforce"
+    hiddenabilities: "Sheerforce"
+    height: 2.5
+    weight: 320.5
+    generation: 6
+}
+
+Form "Altaria,1" {
+    formname: "Mega Altaria"
+    megastone: "Altarianite"
+    types: ['Dragon', 'Fairy']
+    basestats: ['75', '110', '110', '80', '110', '105']
+    baseexp: 207
+    abilities: "Pixilate"
+    hiddenabilities: "Pixilate"
+    height: 1.5
+    generation: 6
+}
+
+Form "Castform,1" {
+    formname: "Sunny Form"
+    types: "Fire"
+    color: "Red"
+    pokedex: ['This Is The Form Castform Takes On The Brightest Of Days. Its Skin Is Unexpectedly Hot To The Touch', ' So Approach With Care.']
+}
+
+Form "Castform,2" {
+    formname: "Rainy Form"
+    types: "Water"
+    color: "Blue"
+    pokedex: ['This Is The Form Castform Takes When Soaked With Rain. When Its Body Is Compressed', ' Water Will Seep Out As If From A Sponge.']
+}
+
+Form "Castform,3" {
+    formname: "Snowy Form"
+    types: "Ice"
+    color: "White"
+    pokedex: ['This Is The Form Castform Takes When Covered In Snow. Its Body Becomes An Ice-Like Material', ' With A Temperature Near -5 Degrees Celsius.']
+}
+
+Form "Banette,1" {
+    formname: "Mega Banette"
+    megastone: "Banettite"
+    basestats: ['64', '165', '75', '75', '93', '83']
+    baseexp: 194
+    abilities: "Prankster"
+    hiddenabilities: "Prankster"
+    height: 1.2
+    weight: 13.0
+    pokedex: "Extraordinary Energy Amplifies Its Cursing Power To Such An Extent That It Can'T Help But Curse Its Own Trainer."
+    generation: 6
+}
+
+Form "Absol,1" {
+    formname: "Mega Absol"
+    megastone: "Absolite"
+    basestats: ['65', '150', '60', '115', '115', '60']
+    baseexp: 198
+    abilities: "Magicbounce"
+    hiddenabilities: "Magicbounce"
+    weight: 49.0
+    pokedex: ['When This Pokémon Whips The Winglike Fur On Its Back As Though Beating Its Wings', ' It Sends An Intimidating Aura Flying At Its Opponents.']
+    generation: 6
+}
+
+Form "Glalie,1" {
+    formname: "Mega Glalie"
+    megastone: "Glalitite"
+    basestats: ['80', '120', '80', '100', '120', '80']
+    baseexp: 203
+    abilities: "Refrigerate"
+    hiddenabilities: "Refrigerate"
+    height: 2.1
+    weight: 350.2
+    pokedex: ['It Envelops Prey In Its Mouth', ' Freezing Them Instantly. But Its Jaw Is Dislocated', " So It'S Unable To Eat Them."]
+    generation: 6
+}
+
+Form "Salamence,1" {
+    formname: "Mega Salamence"
+    megastone: "Salamencite"
+    basestats: ['95', '145', '130', '120', '120', '90']
+    baseexp: 350
+    abilities: "Aerilate"
+    hiddenabilities: "Aerilate"
+    height: 1.8
+    weight: 112.6
+    pokedex: "It Puts Its Forelegs Inside Its Shell To Streamline Itself For Flight. Salamence Flies At High Speeds Over All Kinds Of Topographical Features."
+    generation: 6
+}
+
+Form "Metagross,1" {
+    formname: "Mega Metagross"
+    megastone: "Metagrossite"
+    basestats: ['95', '145', '130', '120', '120', '90']
+    baseexp: 350
+    abilities: "Toughclaws"
+    hiddenabilities: "Toughclaws"
+    height: 2.5
+    weight: 942.9
+    pokedex: ['Its Intellect Surpasses Its Previous Level', ' Resulting In Battles So Cruel', " They'Ll Make You Want To Cover Your Eyes."]
+    generation: 6
+}
+
+Form "Latias,1" {
+    formname: "Mega Latias"
+    megastone: "Latiasite"
+    basestats: ['80', '100', '120', '110', '140', '150']
+    baseexp: 350
+    height: 1.8
+    weight: 52.0
+    color: "Purple"
+    generation: 6
+}
+
+Form "Latios,1" {
+    formname: "Mega Latios"
+    megastone: "Latiosite"
+    basestats: ['80', '130', '100', '110', '160', '120']
+    baseexp: 350
+    height: 2.3
+    weight: 70.0
+    color: "Purple"
+    generation: 6
+}
+
+Form "Kyogre,1" {
+    formname: "Primal Kyogre"
+    basestats: ['100', '150', '90', '90', '180', '160']
+    baseexp: 385
+    abilities: "Primordialsea"
+    height: 9.8
+    weight: 430.0
+    generation: 6
+    flags: ['Legendary', 'Cannotdynamax']
+}
+
+Form "Groudon,1" {
+    formname: "Primal Groudon"
+    types: ['Ground', 'Fire']
+    basestats: ['100', '180', '160', '90', '150', '90']
+    baseexp: 385
+    abilities: "Desolateland"
+    height: 5.0
+    weight: 999.7
+    generation: 6
+    flags: ['Legendary', 'Cannotdynamax']
+}
+
+Form "Rayquaza,1" {
+    formname: "Mega Rayquaza"
+    megamove: "Dragonascent"
+    megamessage: 1
+    basestats: ['105', '180', '100', '115', '180', '100']
+    baseexp: 390
+    abilities: "Deltastream"
+    hiddenabilities: "Deltastream"
+    height: 10.8
+    weight: 392.0
+    generation: 6
+}
+
+Form "Deoxys,1" {
+    formname: "Attack Forme"
+    basestats: ['50', '180', '20', '150', '180', '20']
+    evs: ['Attack', '2', 'SpecialAttack', '1']
+    moves: ['1', 'Leer', '1', 'Wrap', '7', 'Nightshade', '13', 'Teleport', '19', 'Taunt', '25', 'Psyshock', '31', 'Psychic', '37', 'Superpower', '43', 'Skillswap', '49', 'Zenheadbutt', '55', 'Cosmicpower', '61', 'Zapcannon', '67', 'Psychoboost', '73', 'Hyperbeam']
+    tutormoves: ['Aerialace', 'Agility', 'Brickbreak', 'Calmmind', 'Chargebeam', 'Darkpulse', 'Drainpunch', 'Endure', 'Energyball', 'Expandingforce', 'Facade', 'Firepunch', 'Flashcannon', 'Fling', 'Focusblast', 'Futuresight', 'Gigaimpact', 'Grassknot', 'Gravity', 'Hyperbeam', 'Icebeam', 'Icepunch', 'Icywind', 'Imprison', 'Knockoff', 'Lightscreen', 'Lowkick', 'Lowsweep', 'Meteorbeam', 'Nastyplot', 'Nightshade', 'Painsplit', 'Poisonjab', 'Protect', 'Psybeam', 'Psychic', 'Psychicnoise', 'Psychicterrain', 'Psychup', 'Psyshock', 'Raindance', 'Reflect', 'Rest', 'Rockslide', 'Rocktomb', 'Scaryface', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Solarbeam', 'Stealthrock', 'Stompingtantrum', 'Storedpower', 'Substitute', 'Sunnyday', 'Swift', 'Takedown', 'Taunt', 'Throatchop', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Thunderwave', 'Trick', 'Trickroom', 'Waterpulse', 'Zenheadbutt']
+}
+
+Form "Deoxys,2" {
+    formname: "Defense Forme"
+    basestats: ['50', '70', '160', '90', '70', '160']
+    evs: ['Defense', '2', 'SpecialDefense', '1']
+    moves: ['1', 'Leer', '1', 'Wrap', '7', 'Nightshade', '13', 'Teleport', '19', 'Knockoff', '25', 'Spikes', '31', 'Psychic', '37', 'Protect', '43', 'Skillswap', '49', 'Zenheadbutt', '55', 'Irondefense', '55', 'Amnesia', '61', 'Recover', '67', 'Psychoboost', '73', 'Mirrorcoat', '73', 'Counter']
+    tutormoves: ['Aerialace', 'Agility', 'Amnesia', 'Brickbreak', 'Calmmind', 'Chargebeam', 'Darkpulse', 'Drainpunch', 'Endure', 'Energyball', 'Expandingforce', 'Facade', 'Firepunch', 'Flashcannon', 'Fling', 'Focusblast', 'Futuresight', 'Gigaimpact', 'Grassknot', 'Gravity', 'Hyperbeam', 'Icebeam', 'Icepunch', 'Icywind', 'Imprison', 'Irondefense', 'Knockoff', 'Lightscreen', 'Lowkick', 'Lowsweep', 'Meteorbeam', 'Nightshade', 'Painsplit', 'Poisonjab', 'Protect', 'Psybeam', 'Psychic', 'Psychicnoise', 'Psychicterrain', 'Psychup', 'Psyshock', 'Raindance', 'Reflect', 'Rest', 'Rockslide', 'Rocktomb', 'Scaryface', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Solarbeam', 'Spikes', 'Stealthrock', 'Stompingtantrum', 'Storedpower', 'Substitute', 'Sunnyday', 'Swift', 'Takedown', 'Taunt', 'Throatchop', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Thunderwave', 'Trick', 'Trickroom', 'Waterpulse', 'Zenheadbutt']
+}
+
+Form "Deoxys,3" {
+    formname: "Speed Forme"
+    basestats: ['50', '95', '90', '180', '95', '90']
+    evs: ['Speed', '3']
+    moves: ['1', 'Leer', '1', 'Wrap', '7', 'Nightshade', '13', 'Doubleteam', '19', 'Knockoff', '25', 'Psyshock', '31', 'Psychic', '37', 'Swift', '43', 'Skillswap', '49', 'Zenheadbutt', '55', 'Agility', '61', 'Recover', '67', 'Psychoboost', '73', 'Extremespeed']
+    tutormoves: ['Aerialace', 'Agility', 'Amnesia', 'Brickbreak', 'Calmmind', 'Chargebeam', 'Darkpulse', 'Drainpunch', 'Endure', 'Energyball', 'Expandingforce', 'Facade', 'Firepunch', 'Flashcannon', 'Fling', 'Focusblast', 'Futuresight', 'Gigaimpact', 'Grassknot', 'Gravity', 'Hyperbeam', 'Icebeam', 'Icepunch', 'Icywind', 'Imprison', 'Knockoff', 'Lightscreen', 'Lowkick', 'Lowsweep', 'Meteorbeam', 'Nastyplot', 'Nightshade', 'Painsplit', 'Poisonjab', 'Protect', 'Psybeam', 'Psychic', 'Psychicnoise', 'Psychicterrain', 'Psychup', 'Psyshock', 'Raindance', 'Reflect', 'Rest', 'Rockslide', 'Rocktomb', 'Scaryface', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Solarbeam', 'Stealthrock', 'Stompingtantrum', 'Storedpower', 'Substitute', 'Sunnyday', 'Swift', 'Takedown', 'Taunt', 'Throatchop', 'Thunder', 'Thunderbolt', 'Thunderpunch', 'Thunderwave', 'Trick', 'Trickroom', 'Waterpulse', 'Zenheadbutt']
+}
+
+Form "Burmy,1" {
+    formname: "Sandy Cloak"
+    color: "Brown"
+}
+
+Form "Burmy,2" {
+    formname: "Trash Cloak"
+    color: "Red"
+}
+
+Form "Wormadam,1" {
+    formname: "Sandy Cloak"
+    types: ['Bug', 'Ground']
+    basestats: ['60', '79', '105', '36', '59', '85']
+    evs: ['Defense', '2']
+    moves: ['0', 'Quiverdance', '1', 'Suckerpunch', '1', 'Tackle', '1', 'Protect', '1', 'Bugbite', '10', 'Protect', '15', 'Bugbite', '20', 'Stringshot', '23', 'Confusion', '26', 'Rockblast', '29', 'Harden', '32', 'Psybeam', '35', 'Infestation', '38', 'Flail', '41', 'Attract', '44', 'Psychic', '47', 'Fissure', '50', 'Bugbuzz']
+    tutormoves: ['Allyswitch', 'Attract', 'Bugbite', 'Bugbuzz', 'Bulldoze', 'Captivate', 'Confide', 'Dig', 'Doubleedge', 'Doubleteam', 'Dreameater', 'Earthpower', 'Earthquake', 'Electroweb', 'Endeavor', 'Endure', 'Facade', 'Flash', 'Frustration', 'Gigadrain', 'Gigaimpact', 'Hiddenpower', 'Hyperbeam', 'Infestation', 'Mimic', 'Mudslap', 'Naturalgift', 'Protect', 'Psychic', 'Psychup', 'Raindance', 'Rest', 'Return', 'Rocktomb', 'Round', 'Safeguard', 'Sandstorm', 'Secretpower', 'Shadowball', 'Signalbeam', 'Skillswap', 'Sleeptalk', 'Snore', 'Solarbeam', 'Stealthrock', 'Stringshot', 'Strugglebug', 'Substitute', 'Suckerpunch', 'Sunnyday', 'Swagger', 'Telekinesis', 'Thief', 'Uproar', 'Venoshock']
+    color: "Brown"
+}
+
+Form "Wormadam,2" {
+    formname: "Trash Cloak"
+    types: ['Bug', 'Steel']
+    basestats: ['60', '69', '95', '36', '69', '95']
+    evs: ['Defense', '1', 'SpecialDefense', '1']
+    moves: ['0', 'Quiverdance', '1', 'Metalburst', '1', 'Suckerpunch', '1', 'Tackle', '1', 'Protect', '1', 'Bugbite', '10', 'Protect', '15', 'Bugbite', '20', 'Stringshot', '23', 'Confusion', '26', 'Metalburst', '29', 'Metalsound', '32', 'Psybeam', '35', 'Infestation', '38', 'Flail', '41', 'Attract', '44', 'Psychic', '47', 'Ironhead', '50', 'Bugbuzz']
+    tutormoves: ['Allyswitch', 'Attract', 'Bugbite', 'Bugbuzz', 'Captivate', 'Confide', 'Dig', 'Doubleedge', 'Doubleteam', 'Dreameater', 'Electroweb', 'Endeavor', 'Endure', 'Facade', 'Flash', 'Flashcannon', 'Frustration', 'Gigadrain', 'Gigaimpact', 'Gunkshot', 'Gyroball', 'Hiddenpower', 'Hyperbeam', 'Infestation', 'Irondefense', 'Ironhead', 'Magnetrise', 'Mimic', 'Naturalgift', 'Protect', 'Psychic', 'Psychup', 'Raindance', 'Rest', 'Return', 'Round', 'Safeguard', 'Secretpower', 'Shadowball', 'Signalbeam', 'Skillswap', 'Sleeptalk', 'Snore', 'Solarbeam', 'Stealthrock', 'Stringshot', 'Strugglebug', 'Substitute', 'Suckerpunch', 'Sunnyday', 'Swagger', 'Telekinesis', 'Thief', 'Uproar', 'Venoshock']
+    color: "Red"
+}
+
+Form "Cherrim,1" {
+    formname: "Sunshine Form"
+    color: "Pink"
+    pokedex: ['After Absorbing Plenty Of Sunlight', " Cherrim Takes This Form. It'S Full Of Energy While It'S Like This", ' And Its Liveliness Will Go On Until Sundown.']
+}
+
+Form "Shellos,1" {
+    formname: "East Sea"
+    color: "Blue"
+    pokedex: "Its Appearance Changes Depending On The Environment. One Theory Suggests That Living In Cold Seas Causes Shellos To Take On This Form."
+}
+
+Form "Gastrodon,1" {
+    formname: "East Sea"
+    color: "Blue"
+    pokedex: ["Its Body Is Covered In A Sticky Slime. It'S Very Susceptible To Dehydration", " So It Can'T Spend Too Much Time On Land."]
+}
+
+Form "Lopunny,1" {
+    formname: "Mega Lopunny"
+    megastone: "Lopunnite"
+    types: ['Normal', 'Fighting']
+    basestats: ['65', '136', '94', '135', '54', '96']
+    baseexp: 203
+    abilities: "Scrappy"
+    hiddenabilities: "Scrappy"
+    height: 1.3
+    weight: 28.3
+    pokedex: "It Swings Its Ears Like Whips And Strikes Its Enemies With Them. It Has An Intensely Combative Disposition."
+    generation: 6
+}
+
+Form "Garchomp,1" {
+    formname: "Mega Garchomp"
+    megastone: "Garchompite"
+    basestats: ['108', '170', '115', '92', '120', '95']
+    baseexp: 350
+    abilities: "Sandforce"
+    hiddenabilities: "Sandforce"
+    pokedex: ['Its Vaunted Wings Become Scythes', ' Sending It Mad With Rage. It Swings Its Scythes Wildly And Slices The Ground To Pieces.']
+    generation: 6
+}
+
+Form "Lucario,1" {
+    formname: "Mega Lucario"
+    megastone: "Lucarionite"
+    basestats: ['70', '145', '88', '112', '140', '70']
+    baseexp: 219
+    abilities: "Adaptability"
+    hiddenabilities: "Adaptability"
+    height: 1.3
+    weight: 57.5
+    pokedex: "It Readies Itself To Face Its Enemies By Focusing Its Mental Energies. Its Fighting Style Can Be Summed Up In A Single Word: Heartless."
+    generation: 6
+}
+
+Form "Abomasnow,1" {
+    formname: "Mega Abomasnow"
+    megastone: "Abomasite"
+    basestats: ['90', '132', '105', '30', '132', '105']
+    baseexp: 208
+    hiddenabilities: "Snowwarning"
+    height: 2.7
+    weight: 185.0
+    generation: 6
+}
+
+Form "Gallade,1" {
+    formname: "Mega Gallade"
+    megastone: "Galladite"
+    basestats: ['68', '165', '95', '110', '65', '115']
+    baseexp: 309
+    abilities: "Innerfocus"
+    hiddenabilities: "Innerfocus"
+    weight: 56.4
+    generation: 6
+}
+
+Form "Rotom,1" {
+    formname: "Heat Rotom"
+    types: ['Electric', 'Fire']
+    basestats: ['50', '65', '107', '86', '105', '107']
+    baseexp: 182
+    pokedex: "This Rotom Has Possessed A Convection Microwave Oven That Uses A Special Motor. It Also Has A Flair For Manipulating Flames."
+}
+
+Form "Rotom,2" {
+    formname: "Wash Rotom"
+    types: ['Electric', 'Water']
+    basestats: ['50', '65', '107', '86', '105', '107']
+    baseexp: 182
+    pokedex: "This Form Of Rotom Enjoys Coming Up With Water-Based Pranks. Be Careful With It If You Don'T Want Your Room Flooded."
+}
+
+Form "Rotom,3" {
+    formname: "Frost Rotom"
+    types: ['Electric', 'Ice']
+    basestats: ['50', '65', '107', '86', '105', '107']
+    baseexp: 182
+    pokedex: "Rotom Assumes This Form When It Takes Over A Refrigerator Powered By A Special Motor. It Battles By Spewing Cold Air."
+}
+
+Form "Rotom,4" {
+    formname: "Fan Rotom"
+    types: ['Electric', 'Flying']
+    basestats: ['50', '65', '107', '86', '105', '107']
+    baseexp: 182
+    pokedex: ['In This Form', ' Rotom Applies Its New Power Over Wind To Its Love Of Pranks. It Will Happily Blow Away Any Important Documents It Can Find.']
+}
+
+Form "Rotom,5" {
+    formname: "Mow Rotom"
+    types: ['Electric', 'Grass']
+    basestats: ['50', '65', '107', '86', '105', '107']
+    baseexp: 182
+    pokedex: ["This Is Rotom After It'S Seized Control Of A Lawn Mower That Has A Special Motor. As It Mows Down Grass", ' It Scatters The Clippings Everywhere.']
+}
+
+Form "Giratina,1" {
+    formname: "Origin Forme"
+    basestats: ['150', '120', '100', '90', '120', '100']
+    abilities: "Levitate"
+    hiddenabilities: "Levitate"
+    height: 6.9
+    weight: 650.0
+    shape: "Serpentine"
+}
+
+Form "Shaymin,1" {
+    formname: "Sky Forme"
+    types: ['Grass', 'Flying']
+    basestats: ['100', '103', '75', '127', '120', '75']
+    evs: ['Speed', '3']
+    abilities: "Serenegrace"
+    moves: ['1', 'Growth', '10', 'Magicalleaf', '19', 'Leechseed', '28', 'Quickattack', '37', 'Sweetscent', '46', 'Playrough', '55', 'Worryseed', '64', 'Airslash', '73', 'Energyball', '82', 'Sweetkiss', '91', 'Leafstorm', '100', 'Seedflare']
+    height: 0.4
+    weight: 5.2
+}
+
+Form "Arceus,1" {
+    formname: "Fighting Type"
+    types: "Fighting"
+}
+
+Form "Arceus,2" {
+    formname: "Flying Type"
+    types: "Flying"
+}
+
+Form "Arceus,3" {
+    formname: "Poison Type"
+    types: "Poison"
+}
+
+Form "Arceus,4" {
+    formname: "Ground Type"
+    types: "Ground"
+}
+
+Form "Arceus,5" {
+    formname: "Rock Type"
+    types: "Rock"
+}
+
+Form "Arceus,6" {
+    formname: "Bug Type"
+    types: "Bug"
+}
+
+Form "Arceus,7" {
+    formname: "Ghost Type"
+    types: "Ghost"
+}
+
+Form "Arceus,8" {
+    formname: "Steel Type"
+    types: "Steel"
+}
+
+Form "Arceus,9" {
+    formname: "Unknown Type"
+    types: "Qmarks"
+}
+
+Form "Arceus,10" {
+    formname: "Fire Type"
+    types: "Fire"
+}
+
+Form "Arceus,11" {
+    formname: "Water Type"
+    types: "Water"
+}
+
+Form "Arceus,12" {
+    formname: "Grass Type"
+    types: "Grass"
+}
+
+Form "Arceus,13" {
+    formname: "Electric Type"
+    types: "Electric"
+}
+
+Form "Arceus,14" {
+    formname: "Psychic Type"
+    types: "Psychic"
+}
+
+Form "Arceus,15" {
+    formname: "Ice Type"
+    types: "Ice"
+}
+
+Form "Arceus,16" {
+    formname: "Dragon Type"
+    types: "Dragon"
+}
+
+Form "Arceus,17" {
+    formname: "Dark Type"
+    types: "Dark"
+}
+
+Form "Arceus,18" {
+    formname: "Fairy Type"
+    types: "Fairy"
+    generation: 6
+}
+
+Form "Audino,1" {
+    formname: "Mega Audino"
+    megastone: "Audinite"
+    types: ['Normal', 'Fairy']
+    basestats: ['103', '60', '126', '50', '80', '126']
+    baseexp: 425
+    abilities: "Healer"
+    hiddenabilities: "Healer"
+    height: 1.5
+    weight: 32.0
+    color: "White"
+    generation: 6
+}
+
+Form "Basculin,1" {
+    formname: "Blue-Striped"
+    abilities: ['Rockhead', 'Adaptability']
+    pokedex: ['Even Basculin', ' Which Devours Everything It Can With Its Huge Jaws', ' Is Nothing More Than Food To Organisms Stronger Than Itself.']
+    wilditemuncommon: "Deepseascale"
+}
+
+Form "Darumaka,2" {
+    formname: "Galarian"
+    types: "Ice"
+    moves: ['1', 'Tackle', '1', 'Powdersnow', '4', 'Taunt', '8', 'Bite', '12', 'Avalanche', '16', 'Workup', '20', 'Icefang', '24', 'Headbutt', '28', 'Icepunch', '32', 'Uproar', '36', 'Bellydrum', '40', 'Blizzard', '44', 'Thrash', '48', 'Superpower']
+    tutormoves: ['Attract', 'Avalanche', 'Blizzard', 'Brickbreak', 'Captivate', 'Confide', 'Dig', 'Doubleedge', 'Doubleteam', 'Encore', 'Endure', 'Facade', 'Fireblast', 'Firefang', 'Firepunch', 'Firespin', 'Flamethrower', 'Flareblitz', 'Fling', 'Focusenergy', 'Frustration', 'Grassknot', 'Gyroball', 'Heatwave', 'Hiddenpower', 'Icebeam', 'Icefang', 'Icepunch', 'Megakick', 'Megapunch', 'Mimic', 'Naturalgift', 'Overheat', 'Protect', 'Rest', 'Return', 'Rockslide', 'Rocktomb', 'Round', 'Secretpower', 'Sleeptalk', 'Snore', 'Solarbeam', 'Substitute', 'Sunnyday', 'Superpower', 'Swagger', 'Taunt', 'Thief', 'Toxic', 'Uproar', 'Uturn', 'Willowisp', 'Workup', 'Zenheadbutt']
+    eggmoves: ['Flamewheel', 'Focuspunch', 'Freezedry', 'Hammerarm', 'Incinerate', 'Poweruppunch', 'Takedown', 'Yawn']
+    height: 0.7
+    weight: 40.0
+    color: "White"
+    pokedex: ['The Colder They Get', ' The More Energetic They Are. They Freeze Their Breath To Make Snowballs', ' Using Them As Ammo For Playful Snowball Fights.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+    evolutions: ['Darmanitan', 'Item', 'Icestone']
+}
+
+Form "Darmanitan,1" {
+    formname: "Zen Mode"
+    types: ['Fire', 'Psychic']
+    basestats: ['105', '30', '105', '55', '140', '105']
+    baseexp: 189
+    evs: ['SpecialAttack', '2']
+    color: "Blue"
+    pokedex: ['When Wounded', ' It Stops Moving. It Goes As Still As Stone To Meditate', ' Sharpening Its Mind And Spirit.']
+    flags: "Defaultform_0"
+}
+
+Form "Darmanitan,2" {
+    formname: "Galarian Standard Mode"
+    types: "Ice"
+    abilities: "Gorillatactics"
+    moves: ['0', 'Iciclecrash', '1', 'Tackle', '1', 'Taunt', '1', 'Bite', '1', 'Powdersnow', '12', 'Avalanche', '16', 'Workup', '20', 'Icefang', '24', 'Headbutt', '28', 'Icepunch', '32', 'Uproar', '38', 'Bellydrum', '44', 'Blizzard', '50', 'Thrash', '56', 'Superpower']
+    tutormoves: ['Attract', 'Avalanche', 'Blizzard', 'Bodypress', 'Bodyslam', 'Brickbreak', 'Bulkup', 'Bulldoze', 'Burningjealousy', 'Captivate', 'Confide', 'Dig', 'Doubleedge', 'Doubleteam', 'Earthquake', 'Encore', 'Endure', 'Facade', 'Fireblast', 'Firefang', 'Firepunch', 'Firespin', 'Flamethrower', 'Flareblitz', 'Fling', 'Focusblast', 'Focusenergy', 'Frustration', 'Gigaimpact', 'Grassknot', 'Gyroball', 'Heatwave', 'Hiddenpower', 'Hyperbeam', 'Icebeam', 'Icefang', 'Icepunch', 'Irondefense', 'Ironhead', 'Lashout', 'Megakick', 'Megapunch', 'Mimic', 'Naturalgift', 'Overheat', 'Payback', 'Protect', 'Psychic', 'Rest', 'Return', 'Reversal', 'Rockslide', 'Rocktomb', 'Round', 'Secretpower', 'Sleeptalk', 'Snore', 'Solarbeam', 'Stoneedge', 'Substitute', 'Sunnyday', 'Superpower', 'Swagger', 'Taunt', 'Thief', 'Toxic', 'Uproar', 'Uturn', 'Willowisp', 'Workup', 'Zenheadbutt']
+    height: 1.7
+    weight: 120.0
+    color: "White"
+    category: "Zen Charm"
+    pokedex: ['On Days When Blizzards Blow Through', ' It Comes Down To Where People Live. It Stashes Food In The Snowball On Its Head', ' Taking It Home For Later.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Darmanitan,3" {
+    formname: "Galarian Zen Mode"
+    types: ['Ice', 'Fire']
+    basestats: ['105', '160', '55', '135', '30', '55']
+    baseexp: 189
+    evs: ['SpecialAttack', '2']
+    abilities: "Gorillatactics"
+    moves: ['0', 'Iciclecrash', '1', 'Tackle', '1', 'Taunt', '1', 'Bite', '1', 'Powdersnow', '12', 'Avalanche', '16', 'Workup', '20', 'Icefang', '24', 'Headbutt', '28', 'Icepunch', '32', 'Uproar', '38', 'Bellydrum', '44', 'Blizzard', '50', 'Thrash', '56', 'Superpower']
+    tutormoves: ['Attract', 'Avalanche', 'Blizzard', 'Bodypress', 'Bodyslam', 'Brickbreak', 'Bulkup', 'Bulldoze', 'Burningjealousy', 'Captivate', 'Confide', 'Dig', 'Doubleedge', 'Doubleteam', 'Earthquake', 'Encore', 'Endure', 'Facade', 'Fireblast', 'Firefang', 'Firepunch', 'Firespin', 'Flamethrower', 'Flareblitz', 'Fling', 'Focusblast', 'Focusenergy', 'Frustration', 'Gigaimpact', 'Grassknot', 'Gyroball', 'Heatwave', 'Hiddenpower', 'Hyperbeam', 'Icebeam', 'Icefang', 'Icepunch', 'Irondefense', 'Ironhead', 'Lashout', 'Megakick', 'Megapunch', 'Mimic', 'Naturalgift', 'Overheat', 'Payback', 'Protect', 'Psychic', 'Rest', 'Return', 'Reversal', 'Rockslide', 'Rocktomb', 'Round', 'Secretpower', 'Sleeptalk', 'Snore', 'Solarbeam', 'Stoneedge', 'Substitute', 'Sunnyday', 'Superpower', 'Swagger', 'Taunt', 'Thief', 'Toxic', 'Uproar', 'Uturn', 'Willowisp', 'Workup', 'Zenheadbutt']
+    height: 1.7
+    weight: 120.0
+    color: "White"
+    category: "Zen Charm"
+    pokedex: "Anger Has Reignited Its Atrophied Flame Sac. This Pokémon Spews Fire Everywhere As It Rampages Indiscriminately."
+    generation: 8
+    flags: "Defaultform_2"
+}
+
+Form "Yamask,1" {
+    formname: "Galarian"
+    types: ['Ground', 'Ghost']
+    basestats: ['38', '55', '85', '30', '30', '65']
+    abilities: "Wanderingspirit"
+    moves: ['1', 'Protect', '1', 'Astonish', '4', 'Haze', '8', 'Nightshade', '12', 'Disable', '16', 'Brutalswing', '20', 'Craftyshield', '24', 'Hex', '28', 'Meanlook', '32', 'Slam', '36', 'Curse', '40', 'Shadowball', '44', 'Earthquake', '48', 'Guardsplit', '48', 'Powersplit', '52', 'Destinybond']
+    tutormoves: ['Allyswitch', 'Attract', 'Brutalswing', 'Calmmind', 'Captivate', 'Confide', 'Darkpulse', 'Doubleedge', 'Doubleteam', 'Earthpower', 'Earthquake', 'Endure', 'Energyball', 'Facade', 'Faketears', 'Frustration', 'Hex', 'Hiddenpower', 'Imprison', 'Irondefense', 'Mimic', 'Nastyplot', 'Naturalgift', 'Payback', 'Poltergeist', 'Protect', 'Psychic', 'Raindance', 'Rest', 'Return', 'Rockslide', 'Rocktomb', 'Round', 'Safeguard', 'Sandstorm', 'Secretpower', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Snore', 'Substitute', 'Swagger', 'Thief', 'Toxic', 'Toxicspikes', 'Trick', 'Trickroom', 'Willowisp', 'Wonderroom', 'Zenheadbutt']
+    pokedex: "A Clay Slab With Cursed Engravings Took Possession Of A Yamask. The Slab Is Said To Be Absorbing The Yamask'S Dark Power."
+    generation: 8
+    flags: "Inheritformwitheverstone"
+    evolutions: ['Runerigus', 'Eventafterdamagetaken', '2']
+}
+
+Form "Deerling,1" {
+    formname: "Summer Form"
+    color: "Green"
+}
+
+Form "Deerling,2" {
+    formname: "Autumn Form"
+    color: "Red"
+}
+
+Form "Deerling,3" {
+    formname: "Winter Form"
+    color: "Brown"
+}
+
+Form "Sawsbuck,1" {
+    formname: "Summer Form"
+}
+
+Form "Sawsbuck,2" {
+    formname: "Autumn Form"
+}
+
+Form "Sawsbuck,3" {
+    formname: "Winter Form"
+}
+
+Form "Stunfisk,1" {
+    formname: "Galarian"
+    types: ['Ground', 'Steel']
+    basestats: ['109', '81', '99', '32', '66', '84']
+    abilities: "Mimicry"
+    hiddenabilities: "Mimicry"
+    moves: ['1', 'Tackle', '1', 'Watergun', '1', 'Metalclaw', '1', 'Mudslap', '5', 'Endure', '10', 'Mudshot', '15', 'Revenge', '20', 'Metalsound', '25', 'Suckerpunch', '30', 'Irondefense', '35', 'Bounce', '40', 'Muddywater', '45', 'Snaptrap', '50', 'Flail', '55', 'Fissure']
+    tutormoves: ['Attract', 'Bounce', 'Bulldoze', 'Captivate', 'Confide', 'Crunch', 'Dig', 'Doubleedge', 'Doubleteam', 'Earthpower', 'Earthquake', 'Endure', 'Facade', 'Flashcannon', 'Foulplay', 'Frustration', 'Hiddenpower', 'Icefang', 'Irondefense', 'Lashout', 'Mimic', 'Muddywater', 'Mudshot', 'Naturalgift', 'Payback', 'Protect', 'Raindance', 'Rest', 'Return', 'Revenge', 'Rockslide', 'Rocktomb', 'Round', 'Sandstorm', 'Scald', 'Screech', 'Secretpower', 'Sleeptalk', 'Sludgebomb', 'Sludgewave', 'Snore', 'Stealthrock', 'Steelbeam', 'Stompingtantrum', 'Stoneedge', 'Substitute', 'Surf', 'Swagger', 'Terrainpulse', 'Thunderwave', 'Toxic', 'Uproar']
+    eggmoves: ['Astonish', 'Bind', 'Counter', 'Curse', 'Painsplit', 'Reflecttype', 'Spite', 'Yawn']
+    weight: 20.5
+    color: "Green"
+    habitat: "Cave"
+    pokedex: ['Its Conspicuous Lips Lure Prey In As It Lies In Wait In The Mud. When Prey Gets Close', ' Stunfisk Clamps Its Jagged Steel Fins Down On Them.']
+    generation: 8
+    flags: "Inheritformwitheverstone"
+}
+
+Form "Tornadus,1" {
+    formname: "Therian Forme"
+    basestats: ['79', '100', '80', '121', '110', '90']
+    evs: ['Speed', '3']
+    abilities: "Regenerator"
+    hiddenabilities: "Regenerator"
+    height: 1.4
+    shape: "Winged"
+}
+
+Form "Thundurus,1" {
+    formname: "Therian Forme"
+    basestats: ['79', '105', '70', '101', '145', '80']
+    evs: ['SpecialAttack', '3']
+    abilities: "Voltabsorb"
+    hiddenabilities: "Voltabsorb"
+    height: 3.0
+    shape: "Bipedaltail"
+}
+
+Form "Landorus,1" {
+    formname: "Therian Forme"
+    basestats: ['89', '145', '90', '91', '105', '80']
+    evs: ['Attack', '3']
+    abilities: "Intimidate"
+    hiddenabilities: "Intimidate"
+    height: 1.3
+    shape: "Quadruped"
+}
+
+Form "Kyurem,1" {
+    formname: "White Kyurem"
+    basestats: ['125', '120', '90', '95', '170', '100']
+    baseexp: 350
+    evs: ['SpecialAttack', '3']
+    abilities: "Turboblaze"
+    moves: ['1', 'Dragonrage', '1', 'Icywind', '8', 'Imprison', '15', 'Ancientpower', '22', 'Icebeam', '29', 'Dragonbreath', '36', 'Slash', '43', 'Fusionflare', '50', 'Iceburn', '57', 'Dragonpulse', '64', 'Nobleroar', '71', 'Endeavor', '78', 'Blizzard', '85', 'Outrage', '92', 'Hypervoice']
+    height: 3.6
+    pokedex: "It Has Foreseen That A World Of Truth Will Arrive For People And Pokémon. It Strives To Protect That Future."
+}
+
+Form "Kyurem,2" {
+    formname: "Black Kyurem"
+    basestats: ['125', '170', '100', '95', '120', '90']
+    baseexp: 350
+    evs: ['Attack', '3']
+    abilities: "Teravolt"
+    moves: ['1', 'Dragonrage', '1', 'Icywind', '8', 'Imprison', '15', 'Ancientpower', '22', 'Icebeam', '29', 'Dragonbreath', '36', 'Slash', '43', 'Fusionbolt', '50', 'Freezeshock', '57', 'Dragonpulse', '64', 'Nobleroar', '71', 'Endeavor', '78', 'Blizzard', '85', 'Outrage', '92', 'Hypervoice']
+    height: 3.3
+    pokedex: "It'S Said That This Pokémon Battles In Order To Protect The Ideal World That Will Exist In The Future For People And Pokémon."
+}
+
+Form "Kyurem,3" {
+    pokedexform: 1
+    basestats: ['125', '120', '90', '95', '170', '100']
+    baseexp: 350
+    evs: ['SpecialAttack', '3']
+    abilities: "Turboblaze"
+    moves: ['1', 'Dragonrage', '1', 'Icywind', '8', 'Imprison', '15', 'Ancientpower', '22', 'Icebeam', '29', 'Dragonbreath', '36', 'Slash', '43', 'Fusionflare', '50', 'Iceburn', '57', 'Dragonpulse', '64', 'Nobleroar', '71', 'Endeavor', '78', 'Blizzard', '85', 'Outrage', '92', 'Hypervoice']
+    height: 3.6
+}
+
+Form "Kyurem,4" {
+    pokedexform: 2
+    basestats: ['125', '170', '100', '95', '120', '90']
+    baseexp: 350
+    evs: ['Attack', '3']
+    abilities: "Teravolt"
+    moves: ['1', 'Dragonrage', '1', 'Icywind', '8', 'Imprison', '15', 'Ancientpower', '22', 'Icebeam', '29', 'Dragonbreath', '36', 'Slash', '43', 'Fusionbolt', '50', 'Freezeshock', '57', 'Dragonpulse', '64', 'Nobleroar', '71', 'Endeavor', '78', 'Blizzard', '85', 'Outrage', '92', 'Hypervoice']
+    height: 3.3
+}
+
+Form "Keldeo,1" {
+    formname: "Resolute Form"
+    pokedex: ['The Power That Lay Hidden In Its Body Now Covers Its Horn', ' Turning It Into A Sword That Can Slice Through Anything.']
+}
+
+Form "Meloetta,1" {
+    formname: "Pirouette Forme"
+    types: ['Normal', 'Fighting']
+    basestats: ['100', '128', '90', '128', '77', '77']
+    evs: ['Attack', '1', 'Defense', '1', 'Speed', '1']
+}
+
+Form "Genesect,1" {
+    formname: "Shock Drive"
+}
+
+Form "Genesect,2" {
+    formname: "Burn Drive"
+}
+
+Form "Genesect,3" {
+    formname: "Chill Drive"
+}
+
+Form "Genesect,4" {
+    formname: "Douse Drive"
+}
+
+Form "Greninja,1" {
+    abilities: "Battlebond"
+    hiddenabilities: "Battlebond"
+    egggroups: "Undiscovered"
+}
+
+Form "Greninja,2" {
+    formname: "Ash-Greninja"
+    basestats: ['72', '145', '67', '132', '153', '71']
+    baseexp: 320
+    abilities: "Battlebond"
+    hiddenabilities: "Battlebond"
+    generation: 7
+}
+
+Form "Vivillon,1" {
+    formname: "Continental Pattern"
+}
+
+Form "Vivillon,2" {
+    formname: "Elegant Pattern"
+}
+
+Form "Vivillon,3" {
+    formname: "Garden Pattern"
+}
+
+Form "Vivillon,4" {
+    formname: "High Plains Pattern"
+}
+
+Form "Vivillon,5" {
+    formname: "Icy Snow Pattern"
+}
+
+Form "Vivillon,6" {
+    formname: "Jungle Pattern"
+}
+
+Form "Vivillon,7" {
+    formname: "Marine Pattern"
+}
+
+Form "Vivillon,8" {
+    formname: "Meadow Pattern"
+}
+
+Form "Vivillon,9" {
+    formname: "Modern Pattern"
+}
+
+Form "Vivillon,10" {
+    formname: "Monsoon Pattern"
+}
+
+Form "Vivillon,11" {
+    formname: "Ocean Pattern"
+}
+
+Form "Vivillon,12" {
+    formname: "Polar Pattern"
+}
+
+Form "Vivillon,13" {
+    formname: "River Pattern"
+}
+
+Form "Vivillon,14" {
+    formname: "Sandstorm Pattern"
+}
+
+Form "Vivillon,15" {
+    formname: "Savanna Pattern"
+}
+
+Form "Vivillon,16" {
+    formname: "Sun Pattern"
+}
+
+Form "Vivillon,17" {
+    formname: "Tundra Pattern"
+}
+
+Form "Vivillon,18" {
+    formname: "Fancy Pattern"
+}
+
+Form "Vivillon,19" {
+    formname: "Poké Ball Pattern"
+}
+
+Form "Flabebe,1" {
+    formname: "Yellow Flower"
+}
+
+Form "Flabebe,2" {
+    formname: "Orange Flower"
+}
+
+Form "Flabebe,3" {
+    formname: "Blue Flower"
+}
+
+Form "Flabebe,4" {
+    formname: "White Flower"
+}
+
+Form "Floette,1" {
+    formname: "Yellow Flower"
+}
+
+Form "Floette,2" {
+    formname: "Orange Flower"
+}
+
+Form "Floette,3" {
+    formname: "Blue Flower"
+}
+
+Form "Floette,4" {
+    formname: "White Flower"
+}
+
+Form "Floette,5" {
+    formname: "Eternal Flower"
+    basestats: ['74', '65', '67', '92', '125', '128']
+    baseexp: 243
+    moves: ['1', 'Vinewhip', '1', 'Fairywind', '1', 'Tackle', '6', 'Fairywind', '10', 'Luckychant', '15', 'Razorleaf', '20', 'Wish', '25', 'Magicalleaf', '27', 'Grassyterrain', '33', 'Petalblizzard', '38', 'Aromatherapy', '43', 'Mistyterrain', '46', 'Moonblast', '50', 'Lightofruin', '51', 'Petaldance', '58', 'Solarbeam']
+    egggroups: "Undiscovered"
+    pokedex: "The Flower It'S Holding Can No Longer Be Found Blooming Anywhere. It'S Also Thought To Contain Terrifying Power."
+    evolutions: ['Florges', 'None', '']
+}
+
+Form "Florges,1" {
+    formname: "Yellow Flower"
+}
+
+Form "Florges,2" {
+    formname: "Orange Flower"
+}
+
+Form "Florges,3" {
+    formname: "Blue Flower"
+}
+
+Form "Florges,4" {
+    formname: "White Flower"
+}
+
+Form "Furfrou,1" {
+    formname: "Heart Trim"
+}
+
+Form "Furfrou,2" {
+    formname: "Star Trim"
+}
+
+Form "Furfrou,3" {
+    formname: "Diamond Trim"
+}
+
+Form "Furfrou,4" {
+    formname: "Debutante Trim"
+}
+
+Form "Furfrou,5" {
+    formname: "Matron Trim"
+}
+
+Form "Furfrou,6" {
+    formname: "Dandy Trim"
+}
+
+Form "Furfrou,7" {
+    formname: "La Reine Trim"
+}
+
+Form "Furfrou,8" {
+    formname: "Kabuki Trim"
+}
+
+Form "Furfrou,9" {
+    formname: "Pharaoh Trim"
+}
+
+Form "Meowstic,1" {
+    formname: "Female"
+    hiddenabilities: "Competitive"
+    moves: ['1', 'Magicalleaf', '1', 'Disarmingvoice', '1', 'Fakeout', '1', 'Leer', '1', 'Scratch', '9', 'Confusion', '12', 'Storedpower', '15', 'Chargebeam', '18', 'Covet', '21', 'Psybeam', '24', 'Suckerpunch', '29', 'Roleplay', '34', 'Reflect', '34', 'Lightscreen', '39', 'Psyshock', '44', 'Extrasensory', '49', 'Shadowball', '54', 'Psychic', '59', 'Futuresight']
+    tutormoves: ['Alluringvoice', 'Batonpass', 'Calmmind', 'Chargebeam', 'Charm', 'Darkpulse', 'Dig', 'Disarmingvoice', 'Endure', 'Energyball', 'Expandingforce', 'Facade', 'Faketears', 'Futuresight', 'Gigaimpact', 'Gravity', 'Helpinghand', 'Hyperbeam', 'Lightscreen', 'Magicalleaf', 'Nastyplot', 'Playrough', 'Protect', 'Psybeam', 'Psychic', 'Psychicnoise', 'Psychicterrain', 'Psychup', 'Psyshock', 'Raindance', 'Reflect', 'Rest', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Storedpower', 'Substitute', 'Sunnyday', 'Swift', 'Thunderbolt', 'Thunderwave', 'Trailblaze', 'Trick', 'Trickroom', 'Zenheadbutt']
+    color: "White"
+    pokedex: ["Females Are A Bit More Selfish And Aggressive Than Males. If They Don'T Get What They Want", ' They Will Torment You With Their Psychic Abilities.']
+}
+
+Form "Aegislash,1" {
+    formname: "Blade Forme"
+    basestats: ['60', '140', '50', '60', '140', '50']
+    evs: ['Attack', '2', 'SpecialAttack', '1']
+    pokedex: ['Once Upon A Time', ' A King With An Aegislash Reigned Over The Land. His Pokémon Eventually Drained Him Of Life', ' And His Kingdom Fell With Him.']
+}
+
+Form "Pumpkaboo,1" {
+    formname: "Average Size"
+    basestats: ['49', '66', '70', '51', '44', '55']
+    hiddenabilities: "Insomnia"
+    height: 0.4
+    weight: 5.0
+    pokedex: "Spirits That Wander This World Are Placed Into Pumpkaboo'S Body. They'Re Then Moved On To The Afterlife."
+}
+
+Form "Pumpkaboo,2" {
+    formname: "Large Size"
+    basestats: ['54', '66', '70', '46', '44', '55']
+    height: 0.5
+    weight: 7.5
+    pokedex: ['When Taking Spirits To The Afterlife', ' Large Pumpkaboo Prefer The Spirits Of Adults To Those Of Children.']
+}
+
+Form "Pumpkaboo,3" {
+    formname: "Super Size"
+    basestats: ['59', '66', '70', '41', '44', '55']
+    hiddenabilities: "Insomnia"
+    height: 0.8
+    weight: 15.0
+    pokedex: "Massive Pumpkaboo Are Said To Be The Product Of Areas Where A Great Number Of Lost Souls Lingered."
+    wilditemcommon: "Miracleseed"
+    wilditemuncommon: "Miracleseed"
+    wilditemrare: "Miracleseed"
+}
+
+Form "Gourgeist,1" {
+    formname: "Average Size"
+    basestats: ['65', '90', '122', '84', '58', '75']
+    hiddenabilities: "Insomnia"
+    height: 0.9
+    weight: 12.5
+    pokedex: "Eerie Cries Emanate From Its Body In The Dead Of Night. The Sounds Are Said To Be The Wails Of Spirits Who Are Suffering In The Afterlife."
+}
+
+Form "Gourgeist,2" {
+    formname: "Large Size"
+    basestats: ['75', '95', '122', '69', '58', '75']
+    height: 1.1
+    weight: 14.0
+    pokedex: ['Large Gourgeist Put On The Guise Of Adults', ' Taking The Hands Of Children To Lead Them To The Afterlife.']
+}
+
+Form "Gourgeist,3" {
+    formname: "Super Size"
+    basestats: ['85', '100', '122', '54', '58', '75']
+    hiddenabilities: "Insomnia"
+    height: 1.7
+    weight: 39.0
+    pokedex: "Supersized Gourgeist Aren'T Picky. They Will Forcefully Drag Anyone Off To The Afterlife."
+    wilditemcommon: "Miracleseed"
+    wilditemuncommon: "Miracleseed"
+    wilditemrare: "Miracleseed"
+}
+
+Form "Xerneas,1" {
+    formname: "Active Mode"
+}
+
+Form "Zygarde,1" {
+    formname: "10% Forme"
+    basestats: ['54', '100', '71', '115', '61', '85']
+    baseexp: 243
+    height: 1.2
+    weight: 33.5
+    color: "Black"
+    shape: "Quadruped"
+    pokedex: "This Is Zygarde When About 10% Of Its Pieces Have Been Assembled. It Leaps At Its Opponent'S Chest And Sinks Its Sharp Fangs Into Them."
+    generation: 7
+}
+
+Form "Zygarde,2" {
+    formname: "Complete Forme"
+    basestats: ['216', '100', '121', '85', '91', '95']
+    baseexp: 354
+    abilities: "Powerconstruct"
+    hiddenabilities: "Powerconstruct"
+    height: 4.5
+    weight: 610.0
+    color: "Black"
+    shape: "Bipedaltail"
+    pokedex: ["This Is Zygarde'S Perfected Form. From The Orifice On Its Chest", ' It Radiates High-Powered Energy That Eliminates Everything.']
+    generation: 7
+}
+
+Form "Zygarde,3" {
+    pokedexform: 2
+    basestats: ['216', '100', '121', '85', '91', '95']
+    baseexp: 354
+    abilities: "Powerconstruct"
+    hiddenabilities: "Powerconstruct"
+    height: 4.5
+    weight: 610.0
+    color: "Black"
+    shape: "Bipedaltail"
+}
+
+Form "Diancie,1" {
+    formname: "Mega Diancie"
+    megastone: "Diancite"
+    basestats: ['50', '160', '110', '110', '160', '110']
+    baseexp: 350
+    abilities: "Magicbounce"
+    hiddenabilities: "Magicbounce"
+    height: 1.1
+    weight: 27.8
+}
+
+Form "Hoopa,1" {
+    formname: "Hoopa Unbound"
+    types: ['Psychic', 'Dark']
+    basestats: ['80', '160', '60', '80', '170', '130']
+    baseexp: 340
+    moves: ['1', 'Destinybond', '1', 'Allyswitch', '1', 'Confusion', '6', 'Astonish', '10', 'Trick', '15', 'Lightscreen', '19', 'Psybeam', '25', 'Skillswap', '29', 'Guardsplit', '29', 'Powersplit', '46', 'Knockoff', '50', 'Wonderroom', '50', 'Trickroom', '55', 'Darkpulse', '75', 'Psychic', '85', 'Hyperspacefury']
+    height: 6.5
+    weight: 490.0
+    shape: "Bipedaltail"
+}
+
+Form "Oricorio,1" {
+    formname: "Pom-Pom Style"
+    types: ['Electric', 'Flying']
+    color: "Yellow"
+    pokedex: "It Creates An Electric Charge By Rubbing Its Feathers Together. It Dances Over To Its Enemies And Delivers Shocking Electrical Punches."
+    wilditemuncommon: "Yellownectar"
+}
+
+Form "Oricorio,2" {
+    formname: "Pa'U Style"
+    types: ['Psychic', 'Flying']
+    color: "Pink"
+    pokedex: ['This Oricorio Relaxes By Swaying Gently. This Increases Its Psychic Energy', ' Which It Then Fires At Its Enemies.']
+    wilditemuncommon: "Pinknectar"
+}
+
+Form "Oricorio,3" {
+    formname: "Sensu Style"
+    types: ['Ghost', 'Flying']
+    color: "Purple"
+    pokedex: ['It Summons The Dead With Its Dreamy Dancing. From Their Malice', ' It Draws Power With Which To Curse Its Enemies.']
+    wilditemuncommon: "Purplenectar"
+}
+
+Form "Rockruff,2" {
+    abilities: "Owntempo"
+    hiddenabilities: "Owntempo"
+    flags: "Inheritformfrommother"
+    evolutions: ['Lycanroc', 'Levelevening', '25']
+}
+
+Form "Lycanroc,1" {
+    formname: "Midnight Form"
+    basestats: ['85', '115', '75', '82', '55', '75']
+    abilities: ['Keeneye', 'Vitalspirit']
+    hiddenabilities: "Noguard"
+    moves: ['0', 'Counter', '1', 'Sandattack', '1', 'Tackle', '1', 'Leer', '1', 'Doubleteam', '1', 'Reversal', '1', 'Endure', '1', 'Taunt', '12', 'Rockthrow', '16', 'Howl', '20', 'Bite', '24', 'Rocktomb', '30', 'Roar', '36', 'Rockslide', '42', 'Crunch', '48', 'Scaryface', '54', 'Stealthrock', '60', 'Stoneedge']
+    tutormoves: ['Bodyslam', 'Brickbreak', 'Bulkup', 'Bulldoze', 'Charm', 'Closecombat', 'Crunch', 'Dig', 'Doubleedge', 'Earthpower', 'Endeavor', 'Endure', 'Facade', 'Firefang', 'Firepunch', 'Fling', 'Focuspunch', 'Foulplay', 'Gigaimpact', 'Helpinghand', 'Hypervoice', 'Irondefense', 'Ironhead', 'Knockoff', 'Lashout', 'Lowsweep', 'Mudslap', 'Outrage', 'Playrough', 'Protect', 'Psychicfangs', 'Rest', 'Reversal', 'Roar', 'Rockblast', 'Rockslide', 'Rocktomb', 'Sandstorm', 'Scaryface', 'Shadowclaw', 'Sleeptalk', 'Snarl', 'Stealthrock', 'Stompingtantrum', 'Stoneedge', 'Substitute', 'Sunnyday', 'Swordsdance', 'Takedown', 'Taunt', 'Throatchop', 'Thunderfang', 'Thunderpunch', 'Trailblaze', 'Upperhand', 'Zenheadbutt']
+    height: 1.1
+    color: "Red"
+    shape: "Bipedaltail"
+    pokedex: ['It Goads Its Enemies Into Attacking', ' Withstands The Hits', ' And In Return', ' Delivers A Headbutt', ' Crushing Their Bones With Its Rocky Mane.']
+}
+
+Form "Lycanroc,2" {
+    formname: "Dusk Form"
+    basestats: ['75', '117', '65', '110', '55', '65']
+    abilities: "Toughclaws"
+    hiddenabilities: "Toughclaws"
+    moves: ['0', 'Crushclaw', '1', 'Accelerock', '1', 'Suckerpunch', '1', 'Taunt', '1', 'Endure', '1', 'Quickguard', '1', 'Reversal', '1', 'Doubleteam', '1', 'Sandattack', '1', 'Counter', '1', 'Leer', '1', 'Tackle', '1', 'Quickattack', '12', 'Rockthrow', '16', 'Howl', '20', 'Bite', '24', 'Rocktomb', '30', 'Roar', '36', 'Rockslide', '42', 'Crunch', '48', 'Scaryface', '54', 'Stealthrock', '60', 'Stoneedge']
+    tutormoves: ['Bodyslam', 'Brickbreak', 'Bulkup', 'Bulldoze', 'Charm', 'Closecombat', 'Crunch', 'Dig', 'Doubleedge', 'Drillrun', 'Earthpower', 'Endeavor', 'Endure', 'Facade', 'Firefang', 'Gigaimpact', 'Helpinghand', 'Hypervoice', 'Irondefense', 'Ironhead', 'Mudslap', 'Outrage', 'Playrough', 'Protect', 'Psychicfangs', 'Rest', 'Reversal', 'Roar', 'Rockblast', 'Rockslide', 'Rocktomb', 'Sandstorm', 'Scaryface', 'Sleeptalk', 'Snarl', 'Stealthrock', 'Stompingtantrum', 'Stoneedge', 'Substitute', 'Swordsdance', 'Takedown', 'Taunt', 'Throatchop', 'Thunderfang', 'Trailblaze', 'Zenheadbutt']
+    pokedex: ['Bathed In The Setting Sun Of Evening', ' Lycanroc Has Undergone A Special Kind Of Evolution. An Intense Fighting Spirit Underlies Its Calmness.']
+    flags: "Inheritformfrommother"
+}
+
+Form "Wishiwashi,1" {
+    formname: "School Form"
+    basestats: ['45', '140', '130', '30', '140', '135']
+    baseexp: 217
+    height: 8.2
+    weight: 78.6
+    shape: "Multibody"
+    pokedex: ['Weak Wishiwashi School Together To Concentrate Their Power. Their United Force Makes Them The Demon Of The Sea', ' Feared Near And Far.']
+}
+
+Form "Silvally,1" {
+    formname: "Type: Fighting"
+    types: "Fighting"
+}
+
+Form "Silvally,2" {
+    formname: "Type: Flying"
+    types: "Flying"
+}
+
+Form "Silvally,3" {
+    formname: "Type: Poison"
+    types: "Poison"
+}
+
+Form "Silvally,4" {
+    formname: "Type: Ground"
+    types: "Ground"
+}
+
+Form "Silvally,5" {
+    formname: "Type: Rock"
+    types: "Rock"
+}
+
+Form "Silvally,6" {
+    formname: "Type: Bug"
+    types: "Bug"
+}
+
+Form "Silvally,7" {
+    formname: "Type: Ghost"
+    types: "Ghost"
+}
+
+Form "Silvally,8" {
+    formname: "Type: Steel"
+    types: "Steel"
+}
+
+Form "Silvally,9" {
+    formname: "Type: Unknown"
+    types: "Qmarks"
+}
+
+Form "Silvally,10" {
+    formname: "Type: Fire"
+    types: "Fire"
+}
+
+Form "Silvally,11" {
+    formname: "Type: Water"
+    types: "Water"
+}
+
+Form "Silvally,12" {
+    formname: "Type: Grass"
+    types: "Grass"
+}
+
+Form "Silvally,13" {
+    formname: "Type: Electric"
+    types: "Electric"
+}
+
+Form "Silvally,14" {
+    formname: "Type: Psychic"
+    types: "Psychic"
+}
+
+Form "Silvally,15" {
+    formname: "Type: Ice"
+    types: "Ice"
+}
+
+Form "Silvally,16" {
+    formname: "Type: Dragon"
+    types: "Dragon"
+}
+
+Form "Silvally,17" {
+    formname: "Type: Dark"
+    types: "Dark"
+}
+
+Form "Silvally,18" {
+    formname: "Type: Fairy"
+    types: "Fairy"
+}
+
+Form "Minior,7" {
+    formname: "Red Core"
+    basestats: ['60', '100', '60', '120', '100', '60']
+    baseexp: 175
+    evs: ['Attack', '1', 'SpecialAttack', '1']
+    weight: 0.3
+    color: "Red"
+    pokedex: ['If Its Core Stays Exposed', " It Will Soon Die Off. It'S Possible That It May Survive If It'S Put Into A Poké Ball Quickly Enough."]
+    flags: "Inheritformfrommother"
+}
+
+Form "Minior,8" {
+    formname: "Orange Core"
+    basestats: ['60', '100', '60', '120', '100', '60']
+    baseexp: 175
+    evs: ['Attack', '1', 'SpecialAttack', '1']
+    weight: 0.3
+    color: "Red"
+    pokedex: ['If Its Core Stays Exposed', " It Will Soon Die Off. It'S Possible That It May Survive If It'S Put Into A Poké Ball Quickly Enough."]
+    flags: "Inheritformfrommother"
+}
+
+Form "Minior,9" {
+    formname: "Yellow Core"
+    basestats: ['60', '100', '60', '120', '100', '60']
+    baseexp: 175
+    evs: ['Attack', '1', 'SpecialAttack', '1']
+    weight: 0.3
+    color: "Yellow"
+    pokedex: ['If Its Core Stays Exposed', " It Will Soon Die Off. It'S Possible That It May Survive If It'S Put Into A Poké Ball Quickly Enough."]
+    flags: "Inheritformfrommother"
+}
+
+Form "Minior,10" {
+    formname: "Green Core"
+    basestats: ['60', '100', '60', '120', '100', '60']
+    baseexp: 175
+    evs: ['Attack', '1', 'SpecialAttack', '1']
+    weight: 0.3
+    color: "Green"
+    pokedex: ['If Its Core Stays Exposed', " It Will Soon Die Off. It'S Possible That It May Survive If It'S Put Into A Poké Ball Quickly Enough."]
+    flags: "Inheritformfrommother"
+}
+
+Form "Minior,11" {
+    formname: "Blue Core"
+    basestats: ['60', '100', '60', '120', '100', '60']
+    baseexp: 175
+    evs: ['Attack', '1', 'SpecialAttack', '1']
+    weight: 0.3
+    color: "Blue"
+    pokedex: ['If Its Core Stays Exposed', " It Will Soon Die Off. It'S Possible That It May Survive If It'S Put Into A Poké Ball Quickly Enough."]
+    flags: "Inheritformfrommother"
+}
+
+Form "Minior,12" {
+    formname: "Indigo Core"
+    basestats: ['60', '100', '60', '120', '100', '60']
+    baseexp: 175
+    evs: ['Attack', '1', 'SpecialAttack', '1']
+    weight: 0.3
+    color: "Blue"
+    pokedex: ['If Its Core Stays Exposed', " It Will Soon Die Off. It'S Possible That It May Survive If It'S Put Into A Poké Ball Quickly Enough."]
+    flags: "Inheritformfrommother"
+}
+
+Form "Minior,13" {
+    formname: "Violet Core"
+    basestats: ['60', '100', '60', '120', '100', '60']
+    baseexp: 175
+    evs: ['Attack', '1', 'SpecialAttack', '1']
+    weight: 0.3
+    color: "Purple"
+    pokedex: ['If Its Core Stays Exposed', " It Will Soon Die Off. It'S Possible That It May Survive If It'S Put Into A Poké Ball Quickly Enough."]
+    flags: "Inheritformfrommother"
+}
+
+Form "Mimikyu,1" {
+    formname: "Busted Form"
+    pokedex: ['Sad That Its True Identity May Be Exposed', ' Mimikyu Will Mercilessly Seek Revenge On Any Opponent That Breaks Its Neck.']
+}
+
+Form "Necrozma,1" {
+    formname: "Dusk Mane"
+    types: ['Psychic', 'Steel']
+    basestats: ['97', '157', '127', '77', '113', '109']
+    baseexp: 340
+    evs: ['Attack', '3']
+    height: 3.8
+    weight: 460.0
+    color: "Yellow"
+    shape: "Quadruped"
+    pokedex: ["This Is Necrozma'S Form While It'S Absorbing The Power Of Solgaleo", ' Making It Extremely Ferocious And Impossible To Control.']
+}
+
+Form "Necrozma,2" {
+    formname: "Dawn Wings"
+    types: ['Psychic', 'Ghost']
+    basestats: ['97', '113', '109', '77', '157', '127']
+    baseexp: 340
+    evs: ['SpecialAttack', '3']
+    height: 4.2
+    weight: 350.0
+    color: "Blue"
+    pokedex: ['Lunala No Longer Has A Will Of Its Own. Now Under The Control Of Necrozma', ' It Continuously Expels All Of Its Energy.']
+}
+
+Form "Necrozma,3" {
+    formname: "Ultra Necrozma"
+    types: ['Psychic', 'Dragon']
+    basestats: ['97', '167', '97', '129', '167', '97']
+    baseexp: 377
+    evs: ['Attack', '1', 'SpecialAttack', '1', 'Speed', '1']
+    abilities: "Neuroforce"
+    height: 7.5
+    color: "Yellow"
+    pokedex: ['The Light Pouring Out From All Over Its Body Affects Living Things And Nature', ' Impacting Them In Various Ways.']
+    flags: ['Legendary', 'Cannotdynamax']
+}
+
+Form "Necrozma,4" {
+    pokedexform: 3
+    types: ['Psychic', 'Dragon']
+    basestats: ['97', '167', '97', '129', '167', '97']
+    baseexp: 377
+    evs: ['Attack', '1', 'SpecialAttack', '1', 'Speed', '1']
+    abilities: "Neuroforce"
+    height: 7.5
+    color: "Yellow"
+    flags: ['Legendary', 'Cannotdynamax']
+}
+
+Form "Magearna,1" {
+    formname: "Original Color"
+    color: "Red"
+    pokedex: "This Gorgeous Magearna Looks As It Did At The Time Of Its Invention. Its Luxurious Decoration Pleased The King'S Daughter."
+}
+
+Form "Cramorant,1" {
+    formname: "Gulping Form"
+    pokedex: ["Cramorant'S Gluttony Led It To Try To Swallow An Arrokuda Whole", ' Which In Turn Led To Cramorant Getting An Arrokuda Stuck In Its Throat.']
+}
+
+Form "Cramorant,2" {
+    formname: "Gorging Form"
+    pokedex: ['This Cramorant Has Accidentally Gotten A Pikachu Lodged In Its Gullet. Cramorant Is Choking A Little', " But It Isn'T Really Bothered."]
+}
+
+Form "Toxtricity,1" {
+    formname: "Low Key Form"
+    abilities: ['Punkrock', 'Minus']
+    moves: ['0', 'Spark', '1', 'Leer', '1', 'Growl', '1', 'Acid', '1', 'Thundershock', '1', 'Nuzzle', '1', 'Nobleroar', '1', 'Flail', '1', 'Belch', '1', 'Tearfullook', '1', 'Acidspray', '4', 'Charge', '8', 'Shockwave', '12', 'Scaryface', '16', 'Taunt', '24', 'Screech', '28', 'Swagger', '32', 'Toxic', '36', 'Discharge', '40', 'Poisonjab', '44', 'Overdrive', '48', 'Boomburst', '52', 'Magneticflux']
+    pokedex: ['Capable Of Generating 15', '000 Volts Of Electricity', ' This Pokémon Looks Down On All That Would Challenge It.']
+}
+
+Form "Sinistea,1" {
+    formname: "Antique Form"
+    pokedex: ["The Swirl Pattern In This Pokémon'S Body Is Its Weakness. If It Gets Stirred", ' The Swirl Loses Its Shape', ' And Sinistea Gets Dizzy.']
+    evolutions: ['Polteageist', 'Item', 'Chippedpot']
+}
+
+Form "Polteageist,1" {
+    formname: "Antique Form"
+    pokedex: "Trainers Polteageist Trusts Will Be Allowed To Experience Its Distinctive Flavor And Aroma Firsthand By Sampling Just A Tiny Bit Of Its Tea."
+}
+
+Form "Alcremie,7" {
+    formname: "Ruby Cream"
+    pokedex: ['The Cells That Compose Its Cream Fluctuated Suddenly During Evolution', ' Giving The Cream A Sweet And Tart Flavor.']
+}
+
+Form "Alcremie,8" {
+    pokedexform: 7
+}
+
+Form "Alcremie,9" {
+    pokedexform: 7
+}
+
+Form "Alcremie,10" {
+    pokedexform: 7
+}
+
+Form "Alcremie,11" {
+    pokedexform: 7
+}
+
+Form "Alcremie,12" {
+    pokedexform: 7
+}
+
+Form "Alcremie,13" {
+    pokedexform: 7
+}
+
+Form "Alcremie,14" {
+    formname: "Matcha Cream"
+    color: "Green"
+    pokedex: ['The Cells That Compose Its Cream Fluctuated Suddenly During Evolution', ' Giving The Cream An Aromatic Flavor.']
+}
+
+Form "Alcremie,15" {
+    pokedexform: 14
+}
+
+Form "Alcremie,16" {
+    pokedexform: 14
+}
+
+Form "Alcremie,17" {
+    pokedexform: 14
+}
+
+Form "Alcremie,18" {
+    pokedexform: 14
+}
+
+Form "Alcremie,19" {
+    pokedexform: 14
+}
+
+Form "Alcremie,20" {
+    pokedexform: 14
+}
+
+Form "Alcremie,21" {
+    formname: "Mint Cream"
+    color: "Blue"
+    pokedex: ['The Cells That Compose Its Cream Fluctuated Suddenly During Evolution', ' Giving The Cream A Refreshing Flavor.']
+}
+
+Form "Alcremie,22" {
+    pokedexform: 21
+}
+
+Form "Alcremie,23" {
+    pokedexform: 21
+}
+
+Form "Alcremie,24" {
+    pokedexform: 21
+}
+
+Form "Alcremie,25" {
+    pokedexform: 21
+}
+
+Form "Alcremie,26" {
+    pokedexform: 21
+}
+
+Form "Alcremie,27" {
+    pokedexform: 21
+}
+
+Form "Alcremie,28" {
+    formname: "Lemon Cream"
+    color: "Yellow"
+    pokedex: ['The Cells That Compose Its Cream Fluctuated Suddenly During Evolution', ' Giving The Cream A Sour Flavor.']
+}
+
+Form "Alcremie,29" {
+    pokedexform: 28
+}
+
+Form "Alcremie,30" {
+    pokedexform: 28
+}
+
+Form "Alcremie,31" {
+    pokedexform: 28
+}
+
+Form "Alcremie,32" {
+    pokedexform: 28
+}
+
+Form "Alcremie,33" {
+    pokedexform: 28
+}
+
+Form "Alcremie,34" {
+    pokedexform: 28
+}
+
+Form "Alcremie,35" {
+    formname: "Salted Cream"
+    pokedex: ['The Cells That Compose Its Cream Fluctuated Suddenly During Evolution', ' Giving The Cream A Salty Flavor.']
+}
+
+Form "Alcremie,36" {
+    pokedexform: 35
+}
+
+Form "Alcremie,37" {
+    pokedexform: 35
+}
+
+Form "Alcremie,38" {
+    pokedexform: 35
+}
+
+Form "Alcremie,39" {
+    pokedexform: 35
+}
+
+Form "Alcremie,40" {
+    pokedexform: 35
+}
+
+Form "Alcremie,41" {
+    pokedexform: 35
+}
+
+Form "Alcremie,42" {
+    formname: "Ruby Swirl"
+    color: "Yellow"
+    pokedex: ['The Cells That Compose Its Cream Fluctuated Suddenly During Evolution', ' Giving The Cream A Mixed Flavor.']
+}
+
+Form "Alcremie,43" {
+    pokedexform: 42
+}
+
+Form "Alcremie,44" {
+    pokedexform: 42
+}
+
+Form "Alcremie,45" {
+    pokedexform: 42
+}
+
+Form "Alcremie,46" {
+    pokedexform: 42
+}
+
+Form "Alcremie,47" {
+    pokedexform: 42
+}
+
+Form "Alcremie,48" {
+    pokedexform: 42
+}
+
+Form "Alcremie,49" {
+    formname: "Caramel Swirl"
+    color: "Brown"
+    pokedex: ['The Cells That Compose Its Cream Fluctuated Suddenly During Evolution', ' Giving The Cream A Bitter Flavor.']
+}
+
+Form "Alcremie,50" {
+    pokedexform: 49
+}
+
+Form "Alcremie,51" {
+    pokedexform: 49
+}
+
+Form "Alcremie,52" {
+    pokedexform: 49
+}
+
+Form "Alcremie,53" {
+    pokedexform: 49
+}
+
+Form "Alcremie,54" {
+    pokedexform: 49
+}
+
+Form "Alcremie,55" {
+    pokedexform: 49
+}
+
+Form "Alcremie,56" {
+    formname: "Rainbow Swirl"
+    color: "Yellow"
+    pokedex: ['The Cells That Compose Its Cream Fluctuated Suddenly During Evolution', ' Giving The Cream A Complex Flavor.']
+}
+
+Form "Alcremie,57" {
+    pokedexform: 56
+}
+
+Form "Alcremie,58" {
+    pokedexform: 56
+}
+
+Form "Alcremie,59" {
+    pokedexform: 56
+}
+
+Form "Alcremie,60" {
+    pokedexform: 56
+}
+
+Form "Alcremie,61" {
+    pokedexform: 56
+}
+
+Form "Alcremie,62" {
+    pokedexform: 56
+}
+
+Form "Eiscue,1" {
+    formname: "Noice Face"
+    basestats: ['75', '80', '70', '130', '65', '50']
+    pokedex: ["The Ice Covering This Pokémon'S Face Has Shattered", ' Revealing A Slightly Worried Expression That Many People Are Enamored With.']
+}
+
+Form "Indeedee,1" {
+    formname: "Female"
+    basestats: ['70', '55', '65', '85', '95', '105']
+    evs: ['SpecialDefense', '2']
+    abilities: ['Owntempo', 'Synchronize']
+    moves: ['1', 'Playnice', '1', 'Storedpower', '5', 'Batonpass', '10', 'Disarmingvoice', '15', 'Psybeam', '20', 'Helpinghand', '25', 'Followme', '30', 'Healingwish', '35', 'Psychic', '40', 'Calmmind', '45', 'Guardsplit', '50', 'Psychicterrain']
+    tutormoves: ['Alluringvoice', 'Batonpass', 'Bodyslam', 'Calmmind', 'Charm', 'Dazzlinggleam', 'Disarmingvoice', 'Drainingkiss', 'Drainpunch', 'Endure', 'Energyball', 'Facade', 'Helpinghand', 'Hypervoice', 'Imprison', 'Lightscreen', 'Magicalleaf', 'Metronome', 'Playrough', 'Protect', 'Psybeam', 'Psychic', 'Psychicterrain', 'Psychup', 'Psyshock', 'Reflect', 'Rest', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Storedpower', 'Substitute', 'Swift', 'Takedown', 'Trick', 'Trickroom', 'Zenheadbutt']
+    eggmoves: ['Fakeout', 'Healpulse', 'Psychup']
+    pokedex: "They Diligently Serve People And Pokémon So They Can Gather Feelings Of Gratitude. The Females Are Particularly Good At Babysitting."
+}
+
+Form "Morpeko,1" {
+    formname: "Hangry Mode"
+    color: "Purple"
+    pokedex: ['Hunger Hormones Affect Its Temperament. Until Its Hunger Is Appeased', ' It Gets Up To All Manner Of Evil Deeds.']
+}
+
+Form "Zacian,1" {
+    formname: "Crowned Sword"
+    types: ['Fairy', 'Steel']
+    basestats: ['92', '150', '115', '148', '80', '115']
+    baseexp: 360
+    weight: 355.0
+    pokedex: ['Able To Cut Down Anything With A Single Strike', " It Became Known As The Fairy King'S Sword", ' And It Inspired Awe In Friend And Foe Alike.']
+}
+
+Form "Zamazenta,1" {
+    formname: "Crowned Shield"
+    types: ['Fighting', 'Steel']
+    basestats: ['92', '120', '140', '128', '80', '140']
+    baseexp: 360
+    weight: 785.0
+    pokedex: "Its Ability To Deflect Any Attack Led To It Being Known As The Fighting Master'S Shield. It Was Feared And Respected By All."
+}
+
+Form "Urshifu,1" {
+    formname: "Rapid Strike Style"
+    types: ['Fighting', 'Water']
+    moves: ['0', 'Surgingstrikes', '1', 'Aquajet', '1', 'Rocksmash', '1', 'Leer', '1', 'Focusenergy', '1', 'Endure', '12', 'Aerialace', '16', 'Scaryface', '20', 'Headbutt', '24', 'Brickbreak', '28', 'Detect', '32', 'Bulkup', '36', 'Ironhead', '40', 'Dynamicpunch', '44', 'Counter', '48', 'Closecombat', '52', 'Focuspunch']
+    tutormoves: ['Acrobatics', 'Aerialace', 'Aurasphere', 'Bodypress', 'Bodyslam', 'Brickbreak', 'Bulkup', 'Chillingwater', 'Closecombat', 'Coaching', 'Dig', 'Doubleedge', 'Drainpunch', 'Endure', 'Facade', 'Falseswipe', 'Firepunch', 'Fling', 'Focusblast', 'Focuspunch', 'Gigaimpact', 'Helpinghand', 'Icepunch', 'Icespinner', 'Irondefense', 'Ironhead', 'Liquidation', 'Lowkick', 'Lowsweep', 'Poisonjab', 'Protect', 'Raindance', 'Rest', 'Reversal', 'Rockslide', 'Rocktomb', 'Scaryface', 'Sleeptalk', 'Stoneedge', 'Substitute', 'Swift', 'Swordsdance', 'Takedown', 'Taunt', 'Thunderpunch', 'Trailblaze', 'Uturn', 'Waterfall', 'Whirlpool', 'Zenheadbutt']
+    pokedex: ["It'S Believed That This Pokémon Modeled Its Fighting Style On The Flow Of A River—Sometimes Rapid", ' Sometimes Calm.']
+}
+
+Form "Calyrex,1" {
+    formname: "Ice Rider"
+    types: ['Psychic', 'Ice']
+    basestats: ['100', '165', '150', '50', '85', '130']
+    baseexp: 340
+    evs: ['Attack', '3']
+    abilities: "Asonechillingneigh"
+    moves: ['1', 'Glaciallance', '1', 'Iciclecrash', '1', 'Avalanche', '1', 'Irondefense', '1', 'Taunt', '1', 'Torment', '1', 'Confusion', '1', 'Growth', '1', 'Megadrain', '1', 'Pound', '1', 'Tailwhip', '1', 'Swordsdance', '1', 'Doubleedge', '1', 'Thrash', '1', 'Stomp', '1', 'Takedown', '1', 'Tackle', '1', 'Mist', '1', 'Doublekick', '8', 'Lifedew', '16', 'Gigadrain', '24', 'Psyshock', '32', 'Helpinghand', '40', 'Psychicterrain', '40', 'Grassyterrain', '48', 'Energyball', '56', 'Psychic', '64', 'Leechseed', '72', 'Healpulse', '80', 'Solarbeam', '88', 'Futuresight']
+    tutormoves: ['Agility', 'Avalanche', 'Batonpass', 'Blizzard', 'Bodypress', 'Bodyslam', 'Bulldoze', 'Bulletseed', 'Calmmind', 'Closecombat', 'Crunch', 'Curse', 'Doubleedge', 'Drainingkiss', 'Encore', 'Endure', 'Energyball', 'Expandingforce', 'Facade', 'Futuresight', 'Gigadrain', 'Gigaimpact', 'Grassknot', 'Grassyterrain', 'Gravity', 'Heavyslam', 'Helpinghand', 'Highhorsepower', 'Hyperbeam', 'Icebeam', 'Iciclespear', 'Icywind', 'Imprison', 'Irondefense', 'Lashout', 'Leafstorm', 'Lightscreen', 'Magicalleaf', 'Metronome', 'Mudshot', 'Outrage', 'Pollenpuff', 'Protect', 'Psybeam', 'Psychic', 'Psychicterrain', 'Psychup', 'Psyshock', 'Reflect', 'Rest', 'Roar', 'Scaryface', 'Seedbomb', 'Skillswap', 'Sleeptalk', 'Smartstrike', 'Snarl', 'Snowscape', 'Solarbeam', 'Solarblade', 'Stompingtantrum', 'Storedpower', 'Substitute', 'Sunnyday', 'Swift', 'Swordsdance', 'Takedown', 'Taunt', 'Throatchop', 'Trailblaze', 'Trick', 'Trickroom', 'Zenheadbutt']
+    height: 2.4
+    weight: 809.1
+    color: "White"
+    shape: "Quadruped"
+    category: "High King"
+    pokedex: ['According To Lore', ' This Pokémon Showed No Mercy To Those Who Got In Its Way', " Yet It Would Heal Its Opponents' Wounds After Battle."]
+}
+
+Form "Calyrex,2" {
+    formname: "Shadow Rider"
+    types: ['Psychic', 'Ghost']
+    basestats: ['100', '85', '80', '150', '165', '100']
+    baseexp: 340
+    evs: ['SpecialAttack', '3']
+    abilities: "Asonegrimneigh"
+    moves: ['1', 'Astralbarrage', '1', 'Hex', '1', 'Nastyplot', '1', 'Shadowball', '1', 'Haze', '1', 'Confuseray', '1', 'Confusion', '1', 'Growth', '1', 'Megadrain', '1', 'Agility', '1', 'Stomp', '1', 'Doublekick', '1', 'Disable', '1', 'Tackle', '1', 'Takedown', '1', 'Thrash', '1', 'Pound', '1', 'Doubleedge', '1', 'Tailwhip', '8', 'Lifedew', '16', 'Gigadrain', '24', 'Psyshock', '32', 'Helpinghand', '40', 'Psychicterrain', '40', 'Grassyterrain', '48', 'Energyball', '56', 'Psychic', '64', 'Leechseed', '72', 'Healpulse', '80', 'Solarbeam', '88', 'Futuresight']
+    tutormoves: ['Agility', 'Batonpass', 'Bodyslam', 'Bulldoze', 'Bulletseed', 'Calmmind', 'Confuseray', 'Crunch', 'Curse', 'Darkpulse', 'Doubleedge', 'Drainingkiss', 'Encore', 'Endure', 'Energyball', 'Expandingforce', 'Facade', 'Foulplay', 'Futuresight', 'Gigadrain', 'Gigaimpact', 'Grassknot', 'Grassyterrain', 'Gravity', 'Haze', 'Helpinghand', 'Hex', 'Hyperbeam', 'Imprison', 'Lashout', 'Leafstorm', 'Lightscreen', 'Magicalleaf', 'Metronome', 'Mudshot', 'Nastyplot', 'Nightshade', 'Painsplit', 'Phantomforce', 'Pollenpuff', 'Protect', 'Psybeam', 'Psychic', 'Psychicterrain', 'Psychup', 'Psyshock', 'Reflect', 'Rest', 'Scaryface', 'Seedbomb', 'Shadowball', 'Skillswap', 'Sleeptalk', 'Snarl', 'Solarbeam', 'Solarblade', 'Stompingtantrum', 'Storedpower', 'Substitute', 'Sunnyday', 'Swift', 'Takedown', 'Taunt', 'Trick', 'Trickroom', 'Willowisp', 'Zenheadbutt']
+    height: 2.4
+    weight: 53.6
+    color: "Black"
+    shape: "Quadruped"
+    category: "High King"
+    pokedex: ['Legend Says That By Using Its Power To See All Events From Past To Future', ' This Pokémon Saved The Creatures Of A Forest From A Meteorite Strike.']
+}
