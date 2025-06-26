@@ -98,7 +98,6 @@ ZerothInit :: proc() -> bool {
         yt := f64(y) * now
         e6 := (abs(xt) + abs(yt)) <= 1.0
 
-        // --- Phasor field
         angle := w * nx
         e7 := complex(math.cos_f64(angle), math.sin_f64(angle)) * t_c
 
@@ -305,44 +304,4 @@ get_troolean_by_name :: proc(name: string) -> Maybe(Troolean) {
 
 //
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-
-
-
-// A 1D Polygon // A 0Di object can move along its own axis 
-vec :: [1][2]int // { {0,0} +/- {Nx, Ny} }
-elbit :: vec // electron linear bit
-
-// Each vec shares an origin {0,0} or +/- {N,N}
-// The shape is formed from measuring the distance between origin 
-// and the two points and the two points with each other
-
-triangle :: [2]vec // { {0,0} +/- {Nx, Ny} +/- {Nx, Ny} }
-lineseg :: triangle // if Nx1 == +/- Nx2 it forms a line
-electron :: triangle
-
-square :: [4]vec
-photon :: square
-
-hexagon :: [2][3]vec
-umbrion :: hexagon
-
-octagon :: [2][4]vec
-cube    :: octagon
-tachyon :: octagon
-
-complexVec :: [1][3]int
-bitvec :: complexVec // {-1, 0, 1}
-troolean :: complexVec // {false, nil, true}
-
-octahedron :: [2]complexVec
-metatron :: octahedron // Ints or Floats
-
-tesserract :: [4]complexVec
-polymetron :: tesserract
-
-numeron    :: [2][3]complexVec
-
-polynumeron :: [2][4]complexVec
 

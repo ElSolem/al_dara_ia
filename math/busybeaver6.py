@@ -145,7 +145,7 @@ def evaluate_tape_with_zeroth(tape):
 # --- Run Everything ---
 if __name__ == "__main__":
     print("Running Busy Beaver 6 through Zeroth Field...\n")
-    steps, tape = run_busy_beaver(bb6, max_steps=50_000_000)
+    steps, tape = run_busy_beaver(bb6, max_steps=100_000_000)
     approved = evaluate_tape_with_zeroth(tape)
     checksum = sum(v * i for i, v in enumerate(tape.values()))
 
@@ -154,7 +154,7 @@ if __name__ == "__main__":
     print("Tape Length:", len(tape))
     print("Tape Contents:")
     for k in sorted(tape):
-        print(tape[k])
+        print(k)
     print("Checksum:", checksum)
     print("Zeroth Verdict:", "Resonant (Accepted)" if approved else "Non-Resonant (Rejected)")
     print("Execution Time:", time.time() - start_time, "seconds")

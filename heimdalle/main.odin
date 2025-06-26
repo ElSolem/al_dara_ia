@@ -218,7 +218,7 @@ PixelCheckerBoard :: proc() {
         for y in 0..=(SCREEN_HEIGHT) {
             center := rl.Vector2{f32(x), f32(y)}
             // <- Check the condition and draw the pixel ->
-            if f64(math.cos_f32(center.x) * math.sin_f32(center.y)) >= BigTan(0.0) {
+            if ZerothInit() { // old: f64(math.cos_f32(center.x) * math.sin_f32(center.y)) >= BigTan(0.0) {
                 rl.DrawPixelV(center, color)
             }
         }
