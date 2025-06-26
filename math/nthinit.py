@@ -7,7 +7,7 @@ def NthInit() -> bool:
     c = 299792458
     t = now % 1.0  # normalized time [0,1]
     k = 2 * math.pi * c
-    v = t # sample normalized velocity
+    v = t + .01 # sample normalized velocity
 
     # Complex particle position
     p = (t * cmath.exp(complex(0, (4/3) * math.pi * t**3))) ** 3
