@@ -103,7 +103,7 @@ checksum :: proc() -> int {
 main :: proc() {
 
     if ZerothInit() {
-    max_steps := 500_000_000
+    max_steps := 700_000_000
 
     // Clear tape
     for i in 0..<tape_size {
